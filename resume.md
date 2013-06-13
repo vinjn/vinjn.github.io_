@@ -1,21 +1,22 @@
-Basic Information
+##Basic Information
     Name:   Jing Zhang 
     Mobile:	( 86) 137 6451 5898 
     Email: 	vinjn.z@gmail.com
 
-Educational Background
+##Educational Background
     Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.
 
-Skills
-    C/C++, Java, hlsl.
-    Direct3D9/10/11, OpenGL, Graphics engines( irrlicht, cocos2d- x, processing. org, Cinder), OpenCV.
-    Development experiences on various game consoles and mobile devices.
+##Skills
+    C/C++, Java.
+    Direct3D9/10/11, OpenGL, OpenCV.
+    Graphics Frameworks( irrlicht, cocos2d-x, Processing, Cinder).
+    Android, Kinect, Leap Motion.
 
-Working Experience
+##Working Experience
 Apr 2012 - Present, GPU Infrastructure Architect, nVidia
 -   Maintaining Direct3D tools which decrease the size and running time of API traces and keep the performances match, it requires understanding of the application behavior.
 -   Using graphics debugging tools( Microsoft PIX/ Intel GPA/ Nsight/ internal tools) to analyze bottlenecks and improve performance.
--	  Building an automatic work flow to cover Direct3D9/10/11 traces.
+-   Building an automatic work flow to cover Direct3D9/10/11 traces.
 
 Jul 2011 - Mar 2012, Senior Software Engineer, ShanDa Interactive Entertainment Ltd
 -   Augmented Reality SDK development, responsible for the scene graph and animation system.
@@ -30,16 +31,9 @@ May 2010 - Feb 2011, Junior Programmer, 2K Games China
 -   Localization of an Xbox 360 game, responsible for UI layout adjustment and game logic debugging.
 -   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.
 
-Projects
+##Projects
 Jan 2011 - Present, Software Consultant, Shanghai CRE Imagination
 -   Optimization and enhancement of Community Core Vision, a standard solution to multi- touch table.
--   Development of multi- touch software compatible with laser scanners and Microsoft Kinect.
--   Development Vuforia(QCAR)- based Augmented Reality application.
+-   Development of multi-touch software compatible with laser scanners and Microsoft Kinect.
+-   Development Vuforia(QCAR)/Metaio/ARToolKitPlus - based Augmented Reality application.
 -   Development of interactive Wacom tablet application, mixed with grabbing video streams from Nikon DSLR.
-
-Oct 2009 - Mar 2010, Robotics Development
--   Laser based 3d-reconstruction (OpenCV) and rendering (irrlicht).
--   Development of face recognition application (OpenCV) running on robotic car.
-
-Open source projects
--   https://github.com/vinjn
