@@ -49,4 +49,4 @@ Open source projects hosted on [github](https://github.com/vinjn).
 -   [KinServer](https://github.com/vinjn/KinServer), a multi-purpose server for Microsoft Kinect.
 -   [CamServer](http://github.com/vinjn/CamServer/), a lightweight camera based interactive system.
 -   [LeapServer](https://github.com/vinjn/LeapServer/), a lightweight TUIO server for Leap Motion.
--   [HlslShaderToy](http://github.com/vinjn/HlslShaderToy/), DirectX 11 version of ShaderToy.com.
+-   [HlslShaderToy](http://github.com/vinjn/HlslShaderToy/), a DirectX 11 clone of [ShaderToy.com](https://www.shadertoy.com/).
