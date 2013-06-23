@@ -1,1 +1,1 @@
-I am Vinjn Zhang, I live and work in Shanghai, China.
+I am Vinjn Zhang (vinjn.z@gmail.com), I live and work in Shanghai, China.
