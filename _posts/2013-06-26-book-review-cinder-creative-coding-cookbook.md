@@ -3,10 +3,8 @@ layout: post
 title: Book Review of "Cinder Creative Coding Cookbook"
 ---
 
-via [Packt](http://www.packtpub.com/cinder-creative-coding-cookbook/book)
-
-via [Amazon](http://www.amazon.com/kindle-store/dp/B00CZ6Y0AI)
-
+via [Packt](http://www.packtpub.com/cinder-creative-coding-cookbook/book)   
+via [Amazon](http://www.amazon.com/kindle-store/dp/B00CZ6Y0AI)   
 via [author](http://ruim.pt/2013/06/cinder-creative-coding-cookbook/)
 
 ![](http://www.packtpub.com/sites/default/files/8703OS.jpg)
@@ -51,6 +49,8 @@ This chapter covers computer vision and Kinect interation, both of them are hot 
 **How it works** explains Cinder knowledge in detail, **There's more...** leads you to other chapters, important websites and even similar implementations from other creative frameworks such as **Processing** and **openFrameworks**. It makes me believe the authors are really the experts in this industry.
 
 Since each chapter is stand alone, you can read as you wish. If extra knowledge is required to better understand the content, you can find them in **There's more...**.
+
+This book also serves as a Cinder-block gems, some of the best Cinder-blocks are collected such as Cinder-Kinect, ciUI. Learning from the experts makes you stronger.
 
 The final chapter [is offerd](http://www.packtpub.com/sites/default/files/downloads/Integrating_with_Bullet_Physics.pdf) free of charge, so you are welcome to have a taste of creative coding.
 
