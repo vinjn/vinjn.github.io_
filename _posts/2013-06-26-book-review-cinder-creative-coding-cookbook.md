@@ -3,6 +3,9 @@ layout: post
 title: Book Review of "Cinder Creative Coding Cookbook"
 ---
 
+{{ page.title }}
+================
+
 via [Packt](http://www.packtpub.com/cinder-creative-coding-cookbook/book)   
 via [Amazon](http://www.amazon.com/kindle-store/dp/B00CZ6Y0AI)   
 via [author](http://ruim.pt/2013/06/cinder-creative-coding-cookbook/)
