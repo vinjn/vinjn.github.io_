@@ -11,9 +11,9 @@ via [author](http://ruim.pt/2013/06/cinder-creative-coding-cookbook/)
 
 ![](http://www.packtpub.com/sites/default/files/8703OS.jpg)
 
-This is the second book I read about Cinder, and I am sure it will stay on my recommend list for a long time.
+I have been using Cinder for commercial projects for two years and this is the second book I read about Cinder. Now I am sure it will stay on my recommended list for a long time.
 
-Cinder is a great creative coding framework, I have always find it difficult to explain the meaning of creative coding to others, even to software developers. However, since the birth of this book, I can easily point them to the book menu to make the problem clear. 
+Cinder is a great creative coding framework, however I have always find it difficult to explain the notion of creative coding to others, even to software developers. Since the birth of this book, I can point them to the book menu to make the problem clear. 
 
 - Chapter 1: Getting Started
 - Chapter 2: Preparing for Development
@@ -48,6 +48,10 @@ This chapter covers computer vision and Kinect interation, both of them are hot 
 - How it works
 - There's more...
 
-*How it works* explains Cinder knowledge in detail, *There's more...* leads you to other chapters, important websites and even similar implementations from other creative frameworks such as *Processing* and *openFrameworks*. It makes me believe the authors are really the expert in this industry.
+**How it works** explains Cinder knowledge in detail, **There's more...** leads you to other chapters, important websites and even similar implementations from other creative frameworks such as **Processing** and **openFrameworks**. It makes me believe the authors are really the experts in this industry.
+
+Since each chapter is stand alone, you can read as you wish. If extra knowledge is required to better understand the content, you can find them in **There's more...**.
 
 The final chapter [is offerd](http://www.packtpub.com/sites/default/files/downloads/Integrating_with_Bullet_Physics.pdf) free of charge, so you are welcome to have a taste of creative coding.
+
+If you want to learn Cinder, I would definitely recommend it as your best choice.
