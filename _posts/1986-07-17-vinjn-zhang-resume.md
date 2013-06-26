@@ -3,6 +3,8 @@ layout: post
 title: Vinjn Zhang - resume
 ---
 
+{{ page.title }}
+================
 ##Basic Information
 -   Name:       Jing Zhang 
 -   Mobile:     (86) 137 6451 5898 
