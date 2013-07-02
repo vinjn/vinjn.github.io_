@@ -61,3 +61,7 @@ Open source projects hosted on [github](https://github.com/vinjn).
 *   [CamServer](http://github.com/vinjn/CamServer/), a lightweight camera based interactive system.
 *   [LeapServer](https://github.com/vinjn/LeapServer/), a lightweight TUIO server for Leap Motion.
 *   [HlslShaderToy](http://github.com/vinjn/HlslShaderToy/), a DirectX 11 clone of [ShaderToy.com](https://www.shadertoy.com/).
+
+Book translation
+
+*   [OpenCV2计算机视觉编程手册](http://www.amazon.cn/OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C-Robert-Laganiere%E8%91%97-%E5%BC%A0%E9%9D%99/dp/B00DO9TC6C/ref=sr_1_1?s=books&ie=UTF8&qid=1372747227&sr=1-1&keywords=OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C)
