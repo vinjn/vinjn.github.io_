@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vinjn Zhang - resume
+title: Vinjn Zhang's Resume
 ---
 
 ##Basic Information
