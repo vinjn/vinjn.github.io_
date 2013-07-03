@@ -55,7 +55,7 @@ Jan 2011 - Present, Software Consultant, **Shanghai CRE Imagination**
 *   Development Vuforia(QCAR)/Metaio/ARToolKitPlus - based Augmented Reality application.
 *   Development of interactive Wacom tablet application, mixed with grabbing video streams from Nikon DSLR.
    
-Open source projects, [github.com/vinjn](https://github.com/vinjn).  
+Open source projects, **github.com/vinjn**  
 
 *   [KinServer](https://github.com/vinjn/KinServer), a multi-purpose server for Microsoft Kinect.
 *   [CamServer](http://github.com/vinjn/CamServer/), a lightweight camera based interactive system.
