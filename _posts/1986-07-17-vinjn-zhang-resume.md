@@ -8,18 +8,18 @@ title: Vinjn Zhang's Resume
 *   Name:       Jing Zhang 
 *   Mobile:     (86) 137 6451 5898 
 *   Email:      vinjn.z@gmail.com
-*   Website:    [vinjn.github.io](http://vinjn.github.io/)
+*   Website:    [vinjn.github.io](http://vinjn.github.io/)   
    
 ##Educational Background
 
-*   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.
+*   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
    
 ##Skills
 
 *   C/C++, Java.
 *   Direct3D9/10/11, OpenGL, OpenCV.
 *   Graphics Frameworks (irrlicht, cocos2d-x, Processing, Cinder).
-*   Android, Kinect, Leap Motion.
+*   Android, Kinect, Leap Motion.   
    
 ##Working Experience  
 
@@ -44,7 +44,7 @@ Mar 2011 - Jul 2011, Game Engine Programmer, **Ubisoft Shanghai**
 May 2010 - Feb 2011, Junior Programmer, **2K Games China**  
 
 *   Localization of an Xbox 360 game, responsible for UI layout adjustment and game logic debugging.
-*   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.
+*   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.   
 
 ##Projects
 
@@ -55,7 +55,7 @@ Jan 2011 - Present, Software Consultant, **Shanghai CRE Imagination**
 *   Development Vuforia(QCAR)/Metaio/ARToolKitPlus - based Augmented Reality application.
 *   Development of interactive Wacom tablet application, mixed with grabbing video streams from Nikon DSLR.
    
-Open source projects hosted on [github](https://github.com/vinjn).  
+Open source projects, [github.com/vinjn](https://github.com/vinjn).  
 
 *   [KinServer](https://github.com/vinjn/KinServer), a multi-purpose server for Microsoft Kinect.
 *   [CamServer](http://github.com/vinjn/CamServer/), a lightweight camera based interactive system.
@@ -64,4 +64,4 @@ Open source projects hosted on [github](https://github.com/vinjn).
 
 Book translation
 
-*   [OpenCV2计算机视觉编程手册](http://www.amazon.cn/OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C-Robert-Laganiere%E8%91%97-%E5%BC%A0%E9%9D%99/dp/B00DO9TC6C/ref=sr_1_1?s=books&ie=UTF8&qid=1372747227&sr=1-1&keywords=OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C)
+*   [OpenCV 2 计算机视觉编程手册](http://www.amazon.cn/OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C-Robert-Laganiere%E8%91%97-%E5%BC%A0%E9%9D%99/dp/B00DO9TC6C/ref=sr_1_1?s=books&ie=UTF8&qid=1372747227&sr=1-1&keywords=OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C)
