@@ -20,7 +20,7 @@ title: Vinjn Zhang's Resume
 #Skills   
 *   C/C++, Java.
 *   Direct3D9/10/11, OpenGL, OpenCV.
-*   Graphics Frameworks (irrlicht, cocos2d-x, Processing, Cinder).
+*   Graphics Frameworks (irrlicht, Cinder, Processing, cocos2d-x).
 *   Android, Kinect, Leap Motion.   
 
 
