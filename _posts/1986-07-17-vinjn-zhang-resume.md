@@ -3,22 +3,22 @@ layout: post
 title: Vinjn Zhang's Resume
 ---
 
-#Basic Information#  
+#Basic Information  
 *   Name:       Jing Zhang 
 *   Mobile:     (86) 137 6451 5898 
 *   Email:      vinjn.z@gmail.com
 *   Website:    [vinjn.github.io](http://vinjn.github.io/)   
    
-#Educational Background#
+#Educational Background
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
    
-#Skills#   
+#Skills   
 *   C/C++, Java.
 *   Direct3D9/10/11, OpenGL, OpenCV.
 *   Graphics Frameworks (irrlicht, cocos2d-x, Processing, Cinder).
 *   Android, Kinect, Leap Motion.   
    
-#Working Experience#  
+#Working Experience  
 
 Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*  
 
@@ -43,7 +43,7 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 *   Localization of an Xbox 360 game, responsible for UI layout adjustment and game logic debugging.
 *   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.   
    
-#Projects#
+#Projects   
 
 Jan 2011 - Present, Software Consultant, *Shanghai CRE Imagination*  
 
