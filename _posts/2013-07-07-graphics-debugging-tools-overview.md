@@ -6,6 +6,9 @@ title: An Overview of Graphics Debugging Tools
 {{ page.title }}
 ================
 
+> If you feel uncomfortable with the table style, feel free to check   
+> [this prettier one](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-07-07-graphics-debugging-tools-overview.md)
+
 Tool | Provider | Host     | Device      | D3D   | OpenGL    | Comment  
 ---  | ---   | ---  |  ---  | ---  |   ---     | ---     
 apitrace | open-source | desktop-OS  | desktop-OS| 8~11  | OpenGL/ES | [link](http://apitrace.github.io/)
