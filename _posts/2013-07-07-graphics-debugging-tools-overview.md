@@ -11,13 +11,13 @@ title: An Overview of Graphics Debugging Tools
 Tool | Vendor | Host     | Device      | D3D   | OpenGL    | Comment  
 ---  | ---   | ---  |  ---  | ---  |   ---     | ---     
 apitrace | open-source | desktop-OS  | desktop-OS| 8~11  | OpenGL/ES | [link](http://apitrace.github.io/)
-PIX  | Microsoft | Win | Win     | 9~11  | -         | DX SDK, replaced by VS Graphics Debugger
-VS Graphics Debugger|Microsoft|Win| Win| 9~11.1 |- | Bundled with VS 2012 pro, [link](http://msdn.microsoft.com/en-us/library/hh315751.aspx)
-GLIntercept| open-source | Win | Win | -    | OpenGL    | [link](https://code.google.com/p/glintercept/)
-WebGL-Inspecto r| open-source | desktop-OS| Browser | -  | WebGL     | [link](http://benvanik.github.io/WebGL-Inspector)
+PIX  | Microsoft | Win | Win     | 9~11  |          | DX SDK, replaced by VS Graphics Debugger
+VS Graphics Debugger|Microsoft|Win| Win| 9~11.1 | | Bundled with VS 2012 pro, [link](http://msdn.microsoft.com/en-us/library/hh315751.aspx)
+GLIntercept| open-source | Win | Win |     | OpenGL    | [link](https://code.google.com/p/glintercept/)
+WebGL-Inspector| open-source | desktop-OS| Browser |   | WebGL     | [link](http://benvanik.github.io/WebGL-Inspector)
 Nsight | NVIDIA | desktop-OS| desktop-OS | 9~11| OpenGL    | Also supprots OpenCL/CUDA/C++ AMP, Needs Visual Studio / Eclipse, [link](http://www.nvidia.com/object/nsight.html)
-PerfHUD ES| NVIDIA | desktop-OS | Tegra-Android | - | ES | [link](https://developer.nvidia.com/nvidia-perfhud-es )
-CodeXL|AMD|Win/Linux| Win/Linux | - | OpenGL    | formly gDEBugger, also supports OpenCL,   [link](http://developer.amd.com/tools-and-sdks/heterogeneous-computing/codexl/)
+PerfHUD ES| NVIDIA | desktop-OS | Tegra-Android |  | ES | [link](https://developer.nvidia.com/nvidia-perfhud-es )
+CodeXL|AMD|Win/Linux| Win/Linux |  | OpenGL    | formly gDEBugger, also supports OpenCL,   [link](http://developer.amd.com/tools-and-sdks/heterogeneous-computing/codexl/)
 GPU PerfStudio|AMD |Win|Win|10~11 |OpenGL| [link](http://developer.amd.com/tools-and-sdks/graphics-development/gpu-perfstudio-2/)
 GPA| Intel |desktop-OS | desktop-OS/Atom-Android |9~11| ES | [link](http://software.intel.com/en-us/vcsource/tools/intel-gpa)
-Android-glTracer| Google| any | Android | - | ES      | [link](http://developer.android.com/tools/help/gltracer.html)
+Android-glTracer| Google| any | Android |  | ES      | [link](http://developer.android.com/tools/help/gltracer.html)
