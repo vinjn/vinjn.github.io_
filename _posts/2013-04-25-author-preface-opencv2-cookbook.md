@@ -8,6 +8,8 @@ title: 我和OpenCV的故事，兼译者序
 
 我翻译的《OpenCV 2 Computer Vision Application Programming Cookbook》将于近期面世，本文是译者序
 
+[点击有大图](https://raw.github.com/vinjn/vinjn.github.io/master/images/opecv-cookbook-face.jpg)
+
 ================
 
 一切的起源是 OpenCV_1.0.exe 的安装包，那时我电脑中安装的还是 VC++ 6.0 绿色版，我以为计算机视觉只是图像处理的别名。当我运行 samples/facedetect 时惊呆了，笔记本自带的摄像头居然实时地识别出我的脸。后来我意识到这句话说错了，其实是检测到了我的脸。人脸识别指的是计算机知道我是谁，这个功能在当时的 OpenCV 是不支持的的。另一个让我震惊的是 samples/inpaint.exe，字面意识是图像修补，即智能地填补缺失的像素信息，那会儿我想这可以用来去马赛克。后来想明白了信息是不会凭空出现的，如果你事先不知道马赛克背后可能是什么，那么无法去恢复它。
