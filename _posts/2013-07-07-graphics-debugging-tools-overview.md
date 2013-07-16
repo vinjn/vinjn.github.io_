@@ -21,3 +21,4 @@ CodeXL|AMD|Win/Linux| Win/Linux |  | OpenGL    | formly gDEBugger, also supports
 GPU PerfStudio|AMD |Win|Win|10~11 |OpenGL| [link](http://developer.amd.com/tools-and-sdks/graphics-development/gpu-perfstudio-2/)
 GPA| Intel |desktop-OS | desktop-OS/Atom-Android |9~11| ES | [link](http://software.intel.com/en-us/vcsource/tools/intel-gpa)
 Android-glTracer| Google| any | Android |  | ES      | [link](http://developer.android.com/tools/help/gltracer.html)
+Mali Graphics Debugger|ARM|Win/Linux| Android/Linux | | ES | Also supports OpenCL, [link](http://malideveloper.arm.com/develop-for-mali/tools/mali-graphics-debugger/)
