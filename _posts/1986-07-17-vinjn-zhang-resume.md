@@ -13,18 +13,18 @@ title: Vinjn Zhang's Resume
 <br>
 #Skills   
 *   C/C++, Java.
-*   Direct3D9/10/11, OpenGL, OpenCV.
-*   Graphics Frameworks (irrlicht, Cinder, Processing, cocos2d-x).
-*   Android, Kinect, Leap Motion.   
+*   Computer Graphics: Direct3D9/10/11, OpenGL/ES.
+*   Computer Vision: OpenCV, Kinect.
+*   Game Development: irrlicht, Cinder, Processing, cocos2d-x.
 <br>
 #Working Experience  
 
 Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*  
 
 *   Maintaining Direct3D tools which decrease the size and running time of API traces and keep the performances match, it requires understanding of the application behavior.
-*   Using graphics debugging tools( Microsoft PIX/ Intel GPA/ Nsight/ internal tools) to analyze bottlenecks and improve performance.
+*   Using graphics debugging tools( Microsoft PIX/ Intel GPA/ Nsight/ apitrace) to analyze bottlenecks and improve performance.
 *   Building an automatic work flow to cover Direct3D9/10/11 traces.
-*   Maintaining OpenGL API capture, converting and replay tools.
+*   Maintaining OpenGL/ES API capture, convert and replay tools.
 
 Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment Ltd*  
 
