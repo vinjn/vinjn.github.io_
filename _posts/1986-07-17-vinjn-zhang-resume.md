@@ -22,7 +22,7 @@ title: Vinjn Zhang's Resume
 Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*  
 
 *   Maintaining Direct3D tools which decrease the size and running time of API traces and keep the performances match, it requires understanding of the application behavior.
-*   Using graphics debugging tools( Microsoft PIX/ Intel GPA/ Nsight/ apitrace) to analyze bottlenecks and improve performance.
+*   Using various tools (PIX/GPA/Nsight/apitrace) to debug and analyze bottlenecks.
 *   Building an automatic work flow to cover Direct3D9/10/11 traces.
 *   Maintaining OpenGL/ES API capture, convert and replay tools.
 
@@ -30,12 +30,12 @@ Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment
 
 *   Augmented Reality SDK development, responsible for the scene graph and animation system.
 *   Research on Image Retrieval, extending OpenCV with flann to support approximate kMeans clustering.
-*   iOS game development, responsible for rendering of collidable particle system (cocos2d-x/ box2d) and state-machine based AI system.
+*   iOS game development, responsible for rendering of collidable particle system (cocos2d-x/box2d) and state-machine based AI system.
 
 Mar 2011 - Jul 2011, Game Engine Programmer, *Ubisoft Shanghai*  
 
-*   Working on NCIS video game (WII/ PS3/ 360/ PC), responsible for localization system, a uniform save/ load mechanism on all platforms and game editor improvement.
-*   TRC/ TCR/ LotCheck implementation to pass Microsoft/ Sony/ Nintendo's verifications.
+*   Working on NCIS video game (WII/PS3/Xbox360/PC), responsible for localization system, a unified save/load mechanism on all platforms and game editor improvement.
+*   TRC/TCR/LotCheck implementation to pass Microsoft/Sony/Nintendo's verifications.
 
 May 2010 - Feb 2011, Junior Programmer, *2K Games China*  
 
@@ -46,7 +46,7 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 
 Jan 2011 - Present, Software Consultant, *Shanghai CRE Imagination*  
 
-*   Optimization and enhancement of Community Core Vision, a standard solution to multi- touch table.
+*   Optimization and enhancement of Community Core Vision, a standard solution to multi-touch table.
 *   Development of multi-touch software compatible with laser scanners and Microsoft Kinect.
 *   Development Vuforia(QCAR)/Metaio/ARToolKitPlus - based Augmented Reality application.
 *   Development of interactive Wacom tablet application, mixed with grabbing video streams from Nikon DSLR.
