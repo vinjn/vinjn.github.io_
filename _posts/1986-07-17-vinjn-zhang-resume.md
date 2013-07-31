@@ -3,7 +3,7 @@ layout: post
 title: Vinjn Zhang's Resume
 ---
 #Basic Information  
-*   Name:       Jing Zhang 
+*   Name:       Jing Zhang / 张静
 *   Mobile:     (86) 137 6451 5898 
 *   Email:      vinjn.z@gmail.com
 *   Website:    [vinjn.github.io](http://vinjn.github.io/)   
