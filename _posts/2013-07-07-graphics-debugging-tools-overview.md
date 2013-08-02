@@ -23,3 +23,8 @@ GPA| Intel |desktop-OS | desktop-OS/Atom-Android |9~11| ES | [link](http://softw
 Android-glTracer| Google| any | Android |  | ES      | [link](http://developer.android.com/tools/help/gltracer.html)
 Mali Graphics Debugger|ARM|Win/Linux| Android/Linux | | ES | Also supports OpenCL, [link](http://malideveloper.arm.com/develop-for-mali/tools/mali-graphics-debugger/)
 PVRTrace/PVRTune | Imagination| desktop-OS | iOS/Android/PC | | ES | [link](http://www.imgtec.com/powervr/insider/sdkdownloads/index.asp)
+
+My personal favorites are:
+* GPA for D3D
+* GLIntercept for OpenGL
+* Never have success on OpenGL-ES :(
