@@ -25,6 +25,7 @@ Mali Graphics Debugger|ARM|Win/Linux| Android/Linux | | ES | Also supports OpenC
 PVRTrace/PVRTune | Imagination| desktop-OS | iOS/Android/PC | | ES | [link](http://www.imgtec.com/powervr/insider/sdkdownloads/index.asp)
 
 My personal favorites are:
+
 * GPA for D3D
 * GLIntercept for OpenGL
 * Never have success on OpenGL-ES :(
