@@ -50,10 +50,10 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 
 Jan 2011 - Present, Software Consultant, *Shanghai CRE Imagination*  
 
-*   Improvement on Community Core Vision, supports multi-cam streaming and various indsutry cameras. Multithreading technique used to increase frames-per-second.
+*   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-cam streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
 *   Development of multi-touch softwares compatible with industrial laser scanner and Microsoft Kinect.
 *   Development Vuforia(QCAR)/Metaio/ARToolKitPlus - based Augmented Reality application.
-*   Development of interactive Wacom tablet application, mixed with grabbing video streams from Nikon DSLR.
+*   Development of [interactive Wacom tablet application](http://www.cre-web.com/?p=563&lang=en), mixed with grabbing video streams from Nikon DSLR.
 *   Leading a team of two to develop Android applications. 
   
 Open source projects, *github.com/vinjn*  
