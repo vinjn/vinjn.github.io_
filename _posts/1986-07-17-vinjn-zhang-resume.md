@@ -50,16 +50,16 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 
 Jan 2011 - Present, Software Consultant, *Shanghai CRE Imagination*  
 
-*   Optimization and enhancement of Community Core Vision, a standard solution to multi-touch table.
-*   Development of multi-touch software compatible with industrial laser scanner and Microsoft Kinect.
+*   Improvement on Community Core Vision, supports multi-cam streaming and various indsutry cameras. Multithreading technique used to increase frames-per-second.
+*   Development of multi-touch softwares compatible with industrial laser scanner and Microsoft Kinect.
 *   Development Vuforia(QCAR)/Metaio/ARToolKitPlus - based Augmented Reality application.
 *   Development of interactive Wacom tablet application, mixed with grabbing video streams from Nikon DSLR.
-   
+*   Leading a team of two to develop Android applications. 
+  
 Open source projects, *github.com/vinjn*  
 
 *   [KinServer](https://github.com/vinjn/KinServer), a multi-purpose server for Microsoft Kinect.
 *   [CamServer](http://github.com/vinjn/CamServer/), a lightweight camera based interactive system.
-*   [LeapServer](https://github.com/vinjn/LeapServer/), a lightweight TUIO server for Leap Motion.
 *   [HlslShaderToy](http://github.com/vinjn/HlslShaderToy/), a DirectX 11 clone of [ShaderToy.com](https://www.shadertoy.com/).
 
 Publications
