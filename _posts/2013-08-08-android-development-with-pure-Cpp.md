@@ -29,33 +29,34 @@ set environment variable JAVA_HOME to c:\Program Files\Java\jdk1.7.0_25\
 ## generate buid.xml
 `$ android update project -p "/project/full/path"`
 
-you can simply `cd` to the root folder of your project and use
+you can simply `cd` to the root folder of your project and type:   
 `$ android update project -p .`
 
 ### Sucess
-```
+
+>
 Updated and renamed default.properties to project.properties   
 Updated local.properties   
 No project name specified, using Activity name 'NativeActivity'.   
 If you wish to change it, edit the first line of build.xml.   
 Added file `C:\android-ndk-r8e\samples\native-activity\build.xml`   
 Added file `C:\android-ndk-r8e\samples\native-activity\proguard-project.txt`   
-```
+
 
 ### Error
-```
+
+>
 Error: The project either has no target set or the target is invalid.
 Please provide a `-t` or `--target` to the `android.bat update` command.
-```
 
 `$ android list targets` to find supported targets 
 
 `$ android update project -p . -t android-10` to explicitly specify the target id
 
 A proper output would be:
-```
+
+>
 Available Android targets:
-----------
 id: 1 or "android-17"
      Name: Android 4.2.2
      Type: Platform
@@ -63,7 +64,7 @@ id: 1 or "android-17"
      Revision: 2
      Skins: HVGA, QVGA, WQVGA400, WQVGA432, WSVGA, WVGA800 (default), WVGA854, WXGA720, WXGA800, WXGA800-7in
      ABIs : armeabi-v7a
-```
+
 
 We can change the content of `default.properties` file.
 
@@ -71,23 +72,25 @@ We can change the content of `default.properties` file.
 `$ ndk-build`
 
 ## build apk
-`$ ant clean debug` # clean to make sure .so file is replaced
+`$ ant clean debug` # clean to make sure .so file is replaced   
 `$ adb install -r bin/NativeActivity-debug.apk` # -r means forcefully install
 
 ## run apk from adb
-adb shell commands is `am start -n your.package.name/your.activity.name`
-`$ adb shell am start -n com.example.native_activity/android.app.NativeActivity`
+adb shell commands is `am start -n your.package.name/your.activity.name`   
+`$ adb shell am start -n com.example.native_activity/android.app.NativeActivity`   
 
 ### error
-```
+
+>
 E/AndroidRuntime( 9570): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.native_activity/android.app.NativeActivity}: java.lang.IllegalArgumentException: Unable to find native library: native-activity
 E/AndroidRuntime( 9570): Caused by: java.lang.IllegalArgumentException: Unable to find native library: native-activity
-```
 
 ```XML
 <application android:label="@string/app_name" android:hasCode="false">
 ```
+
 changed to
+
 ```XML
 <application android:label="@string/app_name" android:hasCode="true">
 ```
