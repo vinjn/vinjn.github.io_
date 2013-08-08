@@ -22,19 +22,19 @@ important ndk tools:
 
 * c:\android-ndk-r8e\ndk-build.cmd
 * c:\android-ndk-r8e\ndk-gdb.py
-
-
+ 
+ 
 ## install-jdk
 set environment variable JAVA_HOME to c:\Program Files\Java\jdk1.7.0_25\
-
-
+ 
+ 
 ## generate-buid.xml
 `$ android update project -p "/project/full/path"`
 
 you can simply `cd` to the root folder of your project and type:   
 `$ android update project -p .`
 
-### generate-buid.xml Sucess
+### generate-buid.xml SUCCESS
 
 >
 Updated and renamed default.properties to project.properties   
@@ -45,7 +45,7 @@ Added file `C:\android-ndk-r8e\samples\native-activity\build.xml`
 Added file `C:\android-ndk-r8e\samples\native-activity\proguard-project.txt`   
 
 
-### generate-buid.xml Error
+### generate-buid.xml ERROR
 
 >
 Error: The project either has no target set or the target is invalid.
@@ -64,7 +64,7 @@ id: 1 or "android-17"
      Type: Platform
      API level: 17
      Revision: 2
-     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WSVGA, WVGA800 (default), WVGA854, WXGA720, WXGA800, WXGA800-7in
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WSVGA, WVGA800 (default), WVGA854, WXGA720
      ABIs : armeabi-v7a
 
 
@@ -84,13 +84,13 @@ We can change the content of `default.properties` file.
 adb shell commands is `am start -n your.package.name/your.activity.name`   
 `$ adb shell am start -n com.example.native_activity/android.app.NativeActivity`   
 
-### run-apk Error
+### run-apk ERROR
 
 >
 E/AndroidRuntime( 9570): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.native_activity/android.app.NativeActivity}: java.lang.IllegalArgumentException: Unable to find native library: native-activity   
 E/AndroidRuntime( 9570): Caused by: java.lang.IllegalArgumentException: Unable to find native library: native-activity
 
-The solution is change 
+The solution is to change 
 
 ```XML
 <application android:label="@string/app_name" android:hasCode="false">
@@ -101,4 +101,5 @@ changed to
 ```XML
 <application android:label="@string/app_name" android:hasCode="true">
 ```
-create an empty src/ folder and try `ant debug` again
+
+Then create an empty src/ folder and try `ant debug` again
