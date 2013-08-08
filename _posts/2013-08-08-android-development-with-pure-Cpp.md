@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to develop Android application with pure C++
+title: How to develop Android Apps with pure C++
 ---
 
 {{ page.title }}
