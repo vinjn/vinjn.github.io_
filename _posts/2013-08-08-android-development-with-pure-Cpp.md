@@ -82,7 +82,7 @@ adb shell commands is `am start -n your.package.name/your.activity.name`
 ### error
 
 >
-E/AndroidRuntime( 9570): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.native_activity/android.app.NativeActivity}: java.lang.IllegalArgumentException: Unable to find native library: native-activity
+E/AndroidRuntime( 9570): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.native_activity/android.app.NativeActivity}: java.lang.IllegalArgumentException: Unable to find native library: native-activity   
 E/AndroidRuntime( 9570): Caused by: java.lang.IllegalArgumentException: Unable to find native library: native-activity
 
 ```XML
