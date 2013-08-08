@@ -6,11 +6,13 @@ title: How to develop Android application with pure C++
 {{ page.title }}
 
 ==============
+
 This article take /ndk/samples/native-activity as the example
 
 ## install adt
- ( android-dev-tool, which contains sdk && eclipse)
+( android-dev-tool, which contains sdk && eclipse)
 important sdk tools:
+
 * c:\Downloads\adt-bundle-windows-x86-20130219\sdk\platform-tools\adb.exe
 * c:\Downloads\adt-bundle-windows-x86-20130219\sdk\tools\android.bat
 * c:\Downloads\adt-bundle-windows-x86-20130219\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\bin\ant.bat
@@ -31,12 +33,12 @@ you can simply enter to the path of your project using cd then you use
 
 ### Sucess
 ```
-Updated and renamed default.properties to project.properties
-Updated local.properties
-No project name specified, using Activity name 'NativeActivity'.
-If you wish to change it, edit the first line of build.xml.
-Added file `C:\android-ndk-r8e\samples\native-activity\build.xml`
-Added file `C:\android-ndk-r8e\samples\native-activity\proguard-project.txt`
+Updated and renamed default.properties to project.properties   
+Updated local.properties   
+No project name specified, using Activity name 'NativeActivity'.   
+If you wish to change it, edit the first line of build.xml.   
+Added file `C:\android-ndk-r8e\samples\native-activity\build.xml`   
+Added file `C:\android-ndk-r8e\samples\native-activity\proguard-project.txt`   
 ```
 
 ### Error
