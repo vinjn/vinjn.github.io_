@@ -19,16 +19,17 @@ important sdk tools:
 
 ## install ndk
 important ndk tools:
+
 * c:\android-ndk-r8e\ndk-build.cmd
 * c:\android-ndk-r8e\ndk-gdb.py
 
 ## install jdk
-set JAVA_HOME = c:\Program Files\Java\jdk1.7.0_25\
+set environment variable JAVA_HOME to c:\Program Files\Java\jdk1.7.0_25\
 
 ## generate buid.xml
 `$ android update project -p "/project/full/path"`
 
-you can simply enter to the path of your project using cd then you use
+you can simply `cd` to the root folder of your project and use
 `$ android update project -p .`
 
 ### Sucess
