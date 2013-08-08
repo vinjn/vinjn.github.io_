@@ -8,7 +8,7 @@ title: How to develop Android Apps with pure C++
 
 This article takes /ndk/samples/native-activity as the example.
 
-## install adt
+## install-adt
 ( android-dev-tool, which contains sdk && eclipse)
 important sdk tools:
 
@@ -16,22 +16,25 @@ important sdk tools:
 * c:\Downloads\adt-bundle-windows-x86-20130219\sdk\tools\android.bat
 * c:\Downloads\adt-bundle-windows-x86-20130219\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\bin\ant.bat
 
-## install ndk
+
+## install-ndk
 important ndk tools:
 
 * c:\android-ndk-r8e\ndk-build.cmd
 * c:\android-ndk-r8e\ndk-gdb.py
 
-## install jdk
+
+## install-jdk
 set environment variable JAVA_HOME to c:\Program Files\Java\jdk1.7.0_25\
 
-## generate buid.xml
+
+## generate-buid.xml
 `$ android update project -p "/project/full/path"`
 
 you can simply `cd` to the root folder of your project and type:   
 `$ android update project -p .`
 
-### Sucess
+### generate-buid.xml Sucess
 
 >
 Updated and renamed default.properties to project.properties   
@@ -42,7 +45,7 @@ Added file `C:\android-ndk-r8e\samples\native-activity\build.xml`
 Added file `C:\android-ndk-r8e\samples\native-activity\proguard-project.txt`   
 
 
-### Error
+### generate-buid.xml Error
 
 >
 Error: The project either has no target set or the target is invalid.
@@ -67,22 +70,27 @@ id: 1 or "android-17"
 
 We can change the content of `default.properties` file.
 
-## build jni so
+
+## build-so
 `$ ndk-build`
 
-## build apk
+
+## build-apk
 `$ ant clean debug` # clean to make sure .so file is replaced   
 `$ adb install -r bin/NativeActivity-debug.apk` # -r means forcefully install
 
-## run apk from adb
+
+## run-apk
 adb shell commands is `am start -n your.package.name/your.activity.name`   
 `$ adb shell am start -n com.example.native_activity/android.app.NativeActivity`   
 
-### error
+### run-apk Error
 
 >
 E/AndroidRuntime( 9570): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.native_activity/android.app.NativeActivity}: java.lang.IllegalArgumentException: Unable to find native library: native-activity   
 E/AndroidRuntime( 9570): Caused by: java.lang.IllegalArgumentException: Unable to find native library: native-activity
+
+The solution is change 
 
 ```XML
 <application android:label="@string/app_name" android:hasCode="false">
