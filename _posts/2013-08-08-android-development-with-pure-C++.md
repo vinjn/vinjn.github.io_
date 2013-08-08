@@ -30,18 +30,23 @@ you can simply enter to the path of your project using cd then you use
 `$ android update project -p .`
 
 ### Sucess
+```
 Updated and renamed default.properties to project.properties
 Updated local.properties
 No project name specified, using Activity name 'NativeActivity'.
 If you wish to change it, edit the first line of build.xml.
 Added file `C:\android-ndk-r8e\samples\native-activity\build.xml`
 Added file `C:\android-ndk-r8e\samples\native-activity\proguard-project.txt`
+```
 
 ### Error
+```
 Error: The project either has no target set or the target is invalid.
 Please provide a `-t` or `--target` to the `android.bat update` command.
+```
 
 `$ android list targets` to find supported targets 
+
 `$ android update project -p . -t android-10` to explicitly specify the target id
 
 A proper output would be:
