@@ -24,7 +24,7 @@ title: Vinjn Zhang's Resume
 
 Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*  
 
-*   Maintaining Direct3D tools which decrease the size and running time of API traces and still keeping the performances match.
+*   Maintaining in-house Direct3D tools which decrease the size and running time of API traces and still keeping the performances match.
 *   Building an automatic work flow to cover Direct3D 9~11.
 *   Maintaining OpenGL/ES API capture, convert and replay tools, mostly on Android platform.
 *   Using various tools (PIX/GPA/Nsight/apitrace/glintercept) to debug and analyze the application.
@@ -42,7 +42,8 @@ Mar 2011 - Jul 2011, Game Engine Programmer, *Ubisoft Shanghai*
 
 May 2010 - Feb 2011, Junior Programmer, *2K Games China*  
 
-*   Localization of an Xbox 360 game, responsible for UI layout adjustment and game logic debugging.
+*   Localization of an Mafia II on Xbox 360, responsible for UI layout adjustment and game logic debugging.
+*   Setup and maintenance of daily build system for multiple projects.
 *   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.   
 <br>
 
@@ -52,7 +53,7 @@ Jan 2011 - Present, Software Consultant, *Shanghai CRE Imagination*
 
 *   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-cam streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
 *   Development of multi-touch softwares compatible with industrial laser scanner and Microsoft Kinect.
-*   Development Vuforia(QCAR)/Metaio/ARToolKitPlus - based Augmented Reality application.
+*   Development of Vuforia(QCAR)/Metaio/ARToolKitPlus - based Augmented Reality application.
 *   Development of [interactive Wacom tablet application](http://www.cre-web.com/?p=563&lang=en), mixed with grabbing video streams from Nikon DSLR.
 *   Leading a team of two to develop Android applications. 
   
