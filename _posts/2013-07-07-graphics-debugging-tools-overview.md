@@ -28,5 +28,5 @@ PVRTrace/PVRTune | Imagination| desktop-OS | iOS/Android/PC | | ES | [link](http
 My personal favorites are:
 
 * GPA for D3D
-* GLIntercept for OpenGL
+* GLIntercept && gDebugger for OpenGL
 * Android-glTracer for OpenGL-ES
