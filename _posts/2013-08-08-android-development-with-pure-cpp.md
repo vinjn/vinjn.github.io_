@@ -8,6 +8,8 @@ title: How to develop Android apps with pure C++
 
 This article takes /ndk/samples/native-activity as the example.
 
+For nice formatting, refer to [this](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-08-08-android-development-with-pure-cpp.md)
+
 ## install-adt
 ( android-dev-tool, which contains sdk && eclipse)
 important sdk tools:
