@@ -12,6 +12,13 @@ title: 游戏渲染中的好文章
 
 [SIGGRAPH 2012 Course: Practical Physically Based Shading in Film and Game Production](http://blog.selfshadow.com/publications/s2012-shading-course/)
 
+[Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)  
+
+* [2010](http://advances.realtimerendering.com/s2010/index.html)
+* [2011](http://advances.realtimerendering.com/s2011/index.html)
+* [2012](http://advances.realtimerendering.com/s2012/index.html)
+* [2013](http://advances.realtimerendering.com/s2013/index.html)
+
 ## Unreal
 
 [publications](http://www.unrealengine.com/en/resources/category/presentations/)
