@@ -14,9 +14,15 @@ title: 游戏渲染中的好文章
 
 ## Unreal
 
-[The Technology Behind the 3D Graphics and Games Course “Unreal Engine 4 Elemental demo”](http://www.unrealengine.com/files/misc/The_Technology_Behind_the_Elemental_Demo_16x9_(2).pdf)
+[site](http://www.unrealengine.com/en/resources/category/presentations/)
+
+[Real Shading in Unreal Engine 4 (Brian Karis)](http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_slides.pdf)
+
+[The Technology Behind the “Unreal Engine 4 Elemental Demo”](http://www.unrealengine.com/files/misc/The_Technology_Behind_the_Elemental_Demo_16x9_%282%29.pdf)
 
 [The Technology Behind the DirectX 11 Unreal Engine"Samaritan" Demo](http://www.slideshare.net/drandom/the-technology-behind-the-directx-11-unreal-enginesamaritan-demo)
+
+[Rendering Techniques in Gears of War 2](http://www.unrealengine.com/files/downloads/GDC09_Smedberg_RenderingTechniques.pdf)
 
 ## Crytek
 
