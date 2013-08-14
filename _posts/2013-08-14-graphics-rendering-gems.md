@@ -19,6 +19,14 @@ title: 游戏渲染中的好文章
 * [2012](http://advances.realtimerendering.com/s2012/index.html)
 * [2013](http://advances.realtimerendering.com/s2013/index.html)
 
+[Beyond Programmable Shading]
+
+* [2008](http://s08.idav.ucdavis.edu/)
+* [2009](http://s09.idav.ucdavis.edu/)
+* [2010](http://bps10.idav.ucdavis.edu/)
+* [2011](http://bps11.idav.ucdavis.edu/)
+* [2012](http://bps12.idav.ucdavis.edu/)
+* 
 ## Unreal
 
 [publications](http://www.unrealengine.com/en/resources/category/presentations/)
@@ -46,8 +54,11 @@ title: 游戏渲染中的好文章
 [Porting Game Engines to Direct3D 10: Crysis / CryEngine™ 2](http://www.crytek.com/download/SIGGRAPH2007_CrysisDX10.ppt)
 
 ## NVIDIA
-  
-  
+
+[Visual Computing Theater at SIGGRAPH 2013](http://www.nvidia.com/object/siggraph2013-theater.html)  
+
+[Ray Tracing is the Future and ever will be...](https://sites.google.com/site/raytracingcourse/)
+
 ## AMD
 
 [publications](http://developer.amd.com/resources/documentation-articles/conference-presentations/)
