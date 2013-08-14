@@ -8,7 +8,7 @@ title: How to develop Android apps with pure C++
 
 This article takes /ndk/samples/native-activity as the example.
 
-For nice formatting, refer to [this](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-08-08-android-development-with-pure-cpp.md)
+[For better formatting, refer to this](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-08-08-android-development-with-pure-cpp.md)
 
 ## install-adt
 ( android-dev-tool, which contains sdk && eclipse)
@@ -64,7 +64,7 @@ BUILD FAILED
 
 A proper output would be:
 
->
+```
 Available Android targets:
 id: 1 or "android-17"
      Name: Android 4.2.2
@@ -73,7 +73,7 @@ id: 1 or "android-17"
      Revision: 2
      Skins: HVGA, QVGA, WQVGA400, WQVGA432, WSVGA, WVGA800 (default), WVGA854, WXGA720
      ABIs : armeabi-v7a
-
+```
 
 We can change the content of `default.properties` file.
 
