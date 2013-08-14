@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 游戏开发中的好文章（不包含渲染）
+title: 游戏开发中的好文章
 ---
 
 {{ page.title }}
