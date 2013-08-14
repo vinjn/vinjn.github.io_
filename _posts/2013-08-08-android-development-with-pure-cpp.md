@@ -51,6 +51,11 @@ Added file `C:\android-ndk-r8e\samples\native-activity\proguard-project.txt`
 Error: The project either has no target set or the target is invalid.
 Please provide a `-t` or `--target` to the `android.bat update` command.
 
+or
+>
+BUILD FAILED
+/home/adt-path/tools/ant/build.xml:543: Unable to resolve project target 'android-17'
+
 `$ android list targets` to find supported targets 
 
 `$ android update project -p . -t android-10` to explicitly specify the target id
