@@ -54,6 +54,8 @@ title: 游戏渲染中的好文章
 
 ## Unity
 
+[Unity: The Chase - Pushing the Limits of Modern Mobile GPU](http://www.realtimerendering.com/downloads/SIGGRAPH_TheChase.pdf)
+
 ## Misc
 
 [Star Ocean 4 - Flexible Shader Managment and Post-processing](http://www.slideshare.net/DAMSIGNUP/so4-flexible-shadermanagmentandpostprocessing)
