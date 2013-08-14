@@ -14,7 +14,7 @@ title: 游戏渲染中的好文章
 
 ## Unreal
 
-[site](http://www.unrealengine.com/en/resources/category/presentations/)
+[publications](http://www.unrealengine.com/en/resources/category/presentations/)
 
 [Real Shading in Unreal Engine 4 (Brian Karis)](http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_slides.pdf)
 
@@ -26,7 +26,7 @@ title: 游戏渲染中的好文章
 
 ## Crytek
 
-[site](http://www.crytek.com/cryengine/presentations/)
+[publications](http://www.crytek.com/cryengine/presentations/)
 
 [Secrets of CryENGINE 3 Graphics Technology](http://www.slideshare.net/TiagoAlexSousa/secrets-of-cryengine-3-graphics-technology)
 
@@ -39,18 +39,27 @@ title: 游戏渲染中的好文章
 [Porting Game Engines to Direct3D 10: Crysis / CryEngine™ 2](http://www.crytek.com/download/SIGGRAPH2007_CrysisDX10.ppt)
 
 ## NVIDIA
-
+  
+  
 ## AMD
 
-[site](http://developer.amd.com/resources/documentation-articles/conference-presentations/)
+[publications](http://developer.amd.com/resources/documentation-articles/conference-presentations/)
 
 ## Valve
 
-[site](http://www.valvesoftware.com/company/publications.html)
+[publications](http://www.valvesoftware.com/company/publications.html)
 
 ## Dice
 
-[site](http://dice.se/publications/)
+[publications](http://dice.se/publications/)
+
+## Guerrilla
+
+[publications](http://www.guerrilla-games.com/publications/)
+
+[The Rendering Technology of Killzone 2](http://www.slideshare.net/guerrillagames/the-rendering-technology-of-killzone-2)
+
+[Deferred Rendering in Killzone 2](http://www.slideshare.net/guerrillagames/deferred-rendering-in-killzone-2-9691589)
 
 ## Unity
 
