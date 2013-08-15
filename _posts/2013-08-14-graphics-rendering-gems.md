@@ -19,17 +19,15 @@ title: 游戏渲染中的好文章
 * [2012](http://advances.realtimerendering.com/s2012/index.html)
 * [2013](http://advances.realtimerendering.com/s2013/index.html)
 
-[Beyond Programmable Shading]
+Beyond Programmable Shading
 
 * [2008](http://s08.idav.ucdavis.edu/)
 * [2009](http://s09.idav.ucdavis.edu/)
 * [2010](http://bps10.idav.ucdavis.edu/)
 * [2011](http://bps11.idav.ucdavis.edu/)
 * [2012](http://bps12.idav.ucdavis.edu/)
-* 
-## Unreal
 
-[publications](http://www.unrealengine.com/en/resources/category/presentations/)
+## Unreal [publications](http://www.unrealengine.com/en/resources/category/presentations/)
 
 [Real Shading in Unreal Engine 4 (Brian Karis)](http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_slides.pdf)
 
@@ -39,9 +37,7 @@ title: 游戏渲染中的好文章
 
 [Rendering Techniques in Gears of War 2](http://www.unrealengine.com/files/downloads/GDC09_Smedberg_RenderingTechniques.pdf)
 
-## Crytek
-
-[publications](http://www.crytek.com/cryengine/presentations/)
+## Crytek [publications](http://www.crytek.com/cryengine/presentations/)
 
 [Secrets of CryENGINE 3 Graphics Technology](http://www.slideshare.net/TiagoAlexSousa/secrets-of-cryengine-3-graphics-technology)
 
@@ -59,21 +55,13 @@ title: 游戏渲染中的好文章
 
 [Ray Tracing is the Future and ever will be...](https://sites.google.com/site/raytracingcourse/)
 
-## AMD
+## AMD [publications](http://developer.amd.com/resources/documentation-articles/conference-presentations/)
 
-[publications](http://developer.amd.com/resources/documentation-articles/conference-presentations/)
+## Valve [publications](http://www.valvesoftware.com/company/publications.html)
 
-## Valve
+## Dice [publications](http://dice.se/publications/)
 
-[publications](http://www.valvesoftware.com/company/publications.html)
-
-## Dice
-
-[publications](http://dice.se/publications/)
-
-## Guerrilla
-
-[publications](http://www.guerrilla-games.com/publications/)
+## Guerrilla [publications](http://www.guerrilla-games.com/publications/)
 
 [The Rendering Technology of Killzone 2](http://www.slideshare.net/guerrillagames/the-rendering-technology-of-killzone-2)
 
