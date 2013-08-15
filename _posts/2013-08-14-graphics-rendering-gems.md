@@ -8,9 +8,24 @@ title: 游戏渲染中的好文章
 
 ## Siggraph
 
-[SIGGRAPH 2013 Course: Physically Based Shading in Theory and Practice](http://blog.selfshadow.com/publications/s2013-shading-course/)
+2013
 
-[SIGGRAPH 2012 Course: Practical Physically Based Shading in Film and Game Production](http://blog.selfshadow.com/publications/s2012-shading-course/)
+* [links](http://blog.selfshadow.com/2013/07/24/siggraph-2013-links/)
+* [Physically Based Shading in Theory and Practice](http://blog.selfshadow.com/publications/s2013-shading-course/)
+
+2012
+
+* [links](http://blog.selfshadow.com/2012/08/11/siggraph-2012-links/)
+* [Practical Physically Based Shading in Film and Game Production](http://blog.selfshadow.com/publications/s2012-shading-course/)
+* [Optimizing Realistic Rendering with Many-Light Methods](http://cgg.mff.cuni.cz/~jaroslav/papers/mlcourse2012/index.htm)
+
+2011
+
+* [links](http://blog.selfshadow.com/2011/08/13/hpg-siggraph-2011/)
+
+2010
+
+* [links](http://www.realtimerendering.com/sig2010.html)
 
 [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)  
 
