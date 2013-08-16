@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: Gray;
+  background-color: Gainsboro;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -83,6 +83,14 @@ a:active {
   outline: 0;
 }
 
+a {
+  color: #ffcc00;
+  font-weight: 400;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffeb9b;
+}
 
 table {
   font-size: inherit;
