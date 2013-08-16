@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 游戏渲染中的好文章
+title: 图形渲染中的好文章
 ---
 
 {{ page.title }}
@@ -51,7 +51,8 @@ Beyond Programmable Shading
 [The Technology Behind the DirectX 11 Unreal Engine"Samaritan" Demo](http://www.slideshare.net/drandom/the-technology-behind-the-directx-11-unreal-enginesamaritan-demo)
 
 [Rendering Techniques in Gears of War 2](http://www.unrealengine.com/files/downloads/GDC09_Smedberg_RenderingTechniques.pdf)
-
+ 
+  
 ## Crytek [publications](http://www.crytek.com/cryengine/presentations/)
 
 [Secrets of CryENGINE 3 Graphics Technology](http://www.slideshare.net/TiagoAlexSousa/secrets-of-cryengine-3-graphics-technology)
@@ -63,19 +64,22 @@ Beyond Programmable Shading
 [The rendering technologies of the CryENGINE® 2](http://www.crytek.com/download/TheRenderingTechnologiesOfTheCryENGINE2.ppt)
 
 [Porting Game Engines to Direct3D 10: Crysis / CryEngine™ 2](http://www.crytek.com/download/SIGGRAPH2007_CrysisDX10.ppt)
-
+  
+  
 ## NVIDIA
 
 [Visual Computing Theater at SIGGRAPH 2013](http://www.nvidia.com/object/siggraph2013-theater.html)  
 
 [Ray Tracing is the Future and ever will be...](https://sites.google.com/site/raytracingcourse/)
 
+[Real-time Shadow Algorithms and Techniques](http://www.nvidia.com/object/doc_shadows.html)  
+  
 ## AMD [publications](http://developer.amd.com/resources/documentation-articles/conference-presentations/)
-
+   
 ## Valve [publications](http://www.valvesoftware.com/company/publications.html)
-
+   
 ## Dice [publications](http://dice.se/publications/)
-
+   
 ## Guerrilla [publications](http://www.guerrilla-games.com/publications/)
 
 [The Rendering Technology of Killzone 2](http://www.slideshare.net/guerrillagames/the-rendering-technology-of-killzone-2)
