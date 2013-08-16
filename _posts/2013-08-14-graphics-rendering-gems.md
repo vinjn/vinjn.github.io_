@@ -93,3 +93,5 @@ Beyond Programmable Shading
 ## Misc
 
 [Star Ocean 4 - Flexible Shader Managment and Post-processing](http://www.slideshare.net/DAMSIGNUP/so4-flexible-shadermanagmentandpostprocessing)
+
+[Street Fighter IV PC explained in detail](http://www.pcgameshardware.com/aid,685997/Street-Fighter-IV-PC-explained-in-detail/News/)
