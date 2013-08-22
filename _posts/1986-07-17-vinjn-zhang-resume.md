@@ -58,7 +58,7 @@ Open source projects, *github.com/vinjn*
 
 *   [KinServer](https://github.com/vinjn/KinServer), a multi-purpose server for Microsoft Kinect.
 *   [CamServer](http://github.com/vinjn/CamServer/), a lightweight camera based interactive system.
-*   [HlslShaderToy](http://github.com/vinjn/HlslShaderToy/), a DirectX 11 clone of [ShaderToy.com](https://www.shadertoy.com/).
+*   [shadertoy-dx11](http://github.com/vinjn/shadertoy-dx11/), a DirectX 11 clone of [ShaderToy.com](https://www.shadertoy.com/).
 
 Publications
 
