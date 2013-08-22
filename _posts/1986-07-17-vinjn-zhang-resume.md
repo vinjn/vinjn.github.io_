@@ -7,11 +7,9 @@ title: Vinjn Zhang's Resume
 *   Mobile:     (86) 137 6451 5898 
 *   Email:      vinjn.z@gmail.com
 *   Website:    [vinjn.github.io](http://vinjn.github.io/)   
-<br>
 
 #Educational Background
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
-<br>
 
 #Skills   
 *   C++, Java, Perl.
@@ -19,20 +17,19 @@ title: Vinjn Zhang's Resume
 *   Computer Graphics: Direct3D9/10/11, OpenGL/ES.
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 *   Game Development: irrlicht, Cinder, Processing, cocos2d-x.
-<br>
 
 #Working Experience  
 
 Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*  
 
-*   Maintaining in-house Direct3D tools which decrease the size and running time of API traces and still keeping the performances match.
+*   Maintaining in-house Direct3D tools which decrease the size and running time of API traces and keep the performances match.
 *   Building an automatic work flow to cover Direct3D 9~11.
-*   Maintaining OpenGL/ES API capture, convert and replay tools, mostly on Android platform.
-*   Using various tools (PIX/GPA/Nsight/apitrace/glintercept) to debug and analyze the application.
+*   Maintaining OpenGL/ES API capture, convert and replay toolchain, covers Android and Windows.
+*   Using various tools (PIX/GPA/Nsight/apitrace/glintercept) to debug and analyze the graphics application.
 
 Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment Ltd*  
 
-*   Augmented Reality SDK development, responsible for the scene graph and animation system.
+*   Augmented Reality SDK development, responsible for the scriptable scene graph and animation system.
 *   Research on Image Retrieval, extending OpenCV with flann to support approximate kMeans clustering.
 *   iOS game development, responsible for rendering of collidable particle system (cocos2d-x/box2d) and state-machine based AI system.
 
@@ -46,7 +43,6 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 *   Localization of an Mafia II on Xbox 360, responsible for UI layout adjustment and game logic debugging.
 *   Setup and maintenance of daily build system for multiple projects.
 *   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.   
-<br>
 
 #Projects   
 
