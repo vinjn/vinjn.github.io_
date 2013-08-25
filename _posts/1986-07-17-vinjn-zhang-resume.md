@@ -23,9 +23,9 @@ title: Vinjn Zhang's Resume
 Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*  
 
 *   Maintaining in-house Direct3D tools which decrease the size and running time of API traces and keep the performances match.
-*   Building an automatic work flow to cover Direct3D 9~11.
+*   Building an automatic work flow to cover Direct3D 9~11 applications.
 *   Maintaining OpenGL/ES API capture, convert and replay toolchain, covers Android and Windows.
-*   Using various tools (PIX/GPA/Nsight/apitrace/glintercept) to debug and analyze the graphics application.
+*   Using various tools (PIX/GPA/Nsight/apitrace/glintercept) to debug and analyze the applications.
 
 Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment Ltd*  
 
@@ -48,7 +48,7 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 
 Jan 2011 - Present, Software Consultant, *Shanghai CRE Imagination*  
 
-*   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-cam streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
+*   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-device streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
 *   Multi-touch softwares compatible with industrial laser scanner and Microsoft Kinect.
 *   Development of Vuforia/Metaio - based Augmented Reality application.
 *   Development of [interactive Wacom tablet application](http://www.cre-web.com/?p=563&lang=en), mixed with grabbing video streams from Nikon DSLR.
