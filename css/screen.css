@@ -16,34 +16,80 @@ html, body {
 }
 
 body {
-  background-color: white;
+  background-color: Gainsboro;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
+/* =============================================================================
+   Typography
+   ========================================================================== */
+/*
+ * Addresses font sizes and margins set differently in IE6/7
+ * Addresses font sizes within 'section' and 'article' in FF4+, Chrome, S5
+ */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
 }
 
-h1 {
-  margin-bottom: 1em;
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0;
 }
+
+h3 {
+  font-size: 1.17em;
+  margin: 1em 0;
+}
+
+h4 {
+  font-size: 1em;
+  margin: 1.33em 0;
+}
+
+h5 {
+  font-size: 0.83em;
+  margin: 1.67em 0;
+}
+
+h6 {
+  font-size: 0.75em;
+  margin: 2.33em 0;
+}
+
 
 p {
   margin: 1em 0;
 }
 
+/* =============================================================================
+   Links
+   ========================================================================== */
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+a:focus {
+  outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+a:hover,
+a:active {
+  outline: 0;
+}
+
 a {
-  color: #00a;
+  color: #ac011f;
+  font-weight: 400;
+  text-decoration: none;
 }
-
 a:hover {
-  color: black;
-}
-
-a:visited {
-  color: #a0a;
+  color: #F2082F;
 }
 
 table {
