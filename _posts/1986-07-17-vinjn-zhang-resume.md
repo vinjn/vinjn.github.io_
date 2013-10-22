@@ -29,7 +29,7 @@ Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*
 
 Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment Ltd*  
 
-*   Augmented Reality SDK development, responsible for the scriptable scene graph and animation system.
+*   Augmented Reality SDK development, responsible for XML-based scene graph and animation system.
 *   Research on Image Retrieval, extending OpenCV with flann to support approximate kMeans clustering.
 *   iOS game development, responsible for rendering of collidable particle system (cocos2d-x/box2d) and state-machine based AI system.
 
@@ -46,13 +46,20 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 
 #Projects   
 
-Jan 2011 - Present, Software Consultant, *Shanghai CRE Imagination*  
+Jan 2011 - Present, Technical Director, *Shanghai CRE Imagination*  
 
+*   Leading R&D team to develop versatile applications. 
 *   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-device streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
 *   Multi-touch softwares compatible with industrial laser scanner and Microsoft Kinect.
 *   Development of Vuforia/Metaio - based Augmented Reality application.
 *   Development of [interactive Wacom tablet application](http://www.cre-web.com/?p=563&lang=en), mixed with grabbing video streams from Nikon DSLR.
-*   Leading a team of two full-time developers to develop Android applications. 
+
+July 2012 - Present, Creative Coder, *Super Nature Design Shanghai*  
+
+*   Nike, Shanghai, Processing + openFrameworks
+*   BMW, Munich, Kinect + Cinder
+*   Nike, Shanghai, CamServer + Cinder
+*   G9 @ Lane Crawford, Kinect + Cinder + Android dev
   
 Open source projects, *github.com/vinjn*  
 
