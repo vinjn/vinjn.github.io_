@@ -69,5 +69,5 @@ Open source projects, *github.com/vinjn*
 
 Publications
 
-*   [OpenCV 2 计算机视觉编程手册](http://www.amazon.cn/OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C-Robert-Laganiere%E8%91%97-%E5%BC%A0%E9%9D%99/dp/B00DO9TC6C/ref=sr_1_1?s=books&ie=UTF8&qid=1372747227&sr=1-1&keywords=OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C)
+*   [OpenCV 2 计算机视觉编程手册](http://www.amazon.cn/OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C-Robert-Laganiere%E8%91%97-%E5%BC%A0%E9%9D%99/dp/B00DO9TC6C/)
 *   [Processing 语言权威指南](http://www.amazon.cn/Processing%E8%AF%AD%E8%A8%80%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%91%9E%E6%96%AF/dp/B00FEMKN7Y/)
