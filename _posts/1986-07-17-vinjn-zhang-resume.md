@@ -56,10 +56,10 @@ Jan 2011 - Present, Technical Director, *Shanghai CRE Imagination*
 
 July 2012 - Present, Creative Coder, *Super Nature Design Shanghai*  
 
-*   Nike, Shanghai, Processing + openFrameworks
-*   BMW, Munich, Kinect + Cinder
-*   Nike, Shanghai, CamServer + Cinder
-*   G9 @ Lane Crawford, Kinect + Cinder + Android dev
+*   2011, [Nike FOS Faceoff](http://www.supernaturedesign.com/work/nikefosfaceoff), Shanghai, treadmill / Arduino / Processing / openFrameworks
+*   2012, BMW, Munich, LED mapping / Kinect / Cinder
+*   2013, Nike FLEX, Shanghai, LED mapping / CamServer / Cinder
+*   2013, G9 @ Lane Crawford, Shanghai, LED mapping / Kinect / Cinder / Android app
   
 Open source projects, *github.com/vinjn*  
 
