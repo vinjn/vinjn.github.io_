@@ -12,8 +12,8 @@ title: Vinjn Zhang's Resume
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
 
 #Skills   
-*   C++, Java, Perl/Python.
-*   Platforms: Windows, Android, game consoles.
+*   C++, Java, Python.
+*   Platforms: Windows, Linux, Android.
 *   Computer Graphics: Direct3D9/10/11, OpenGL/ES.
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 *   Game Development: irrlicht, Cinder, Processing, cocos2d-x.
