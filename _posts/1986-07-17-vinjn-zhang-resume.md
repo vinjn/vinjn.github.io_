@@ -22,10 +22,10 @@ title: Vinjn Zhang's Resume
 
 Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*  
 
-*   Maintaining in-house Direct3D tools which decrease the size and running time of API traces and keep the performances match.
-*   Building an automatic work flow to cover Direct3D 9~11 applications.
-*   Maintaining OpenGL/ES API capture, convert and replay toolchain, covers Android and Windows.
-*   Using various tools (PIX/GPA/Nsight/apitrace/glintercept) to debug and analyze the applications.
+*   Maintaining in-house Direct3D API tracing tools to post-process the traces, decrease the running time of traces and keep the GPU performances match.
+*   Refactoring an automatic work flow to cover Direct3D 9 / 10 / 11 APIs.
+*   Maintaining OpenGL / OpenGL ES API tracing toolchain, including dumper, converter and replayer, covers Windows, Linux and Tegra Android.
+*   [Making use of various tools](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-07-07-graphics-debugging-tools-overview.md) (PIX/GPA/Nsight/apitrace/glintercept) to debug and analyze the applications.
 
 Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment Ltd*  
 
