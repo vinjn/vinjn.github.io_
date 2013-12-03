@@ -6,7 +6,7 @@ title: Vinjn Zhang's Resume
 *   Name:       Jing Zhang / 张静
 *   Mobile:     (86) 137 6451 5898 
 *   Email:      vinjn.z@gmail.com
-*   Website:    [blog](http://vinjn.github.io/) and [portfolio](http://vinjn.github.io/portfolio/)
+*   Website:    [blog](http://vinjn.github.io/) / [portfolio](http://vinjn.github.io/portfolio/)
 
 #Educational Background
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
@@ -14,7 +14,7 @@ title: Vinjn Zhang's Resume
 #Skills   
 *   C++, Java, Python.
 *   Platforms: Windows, Linux, Android.
-*   Computer Graphics: Direct3D9/10/11, OpenGL/ES.
+*   Computer Graphics: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES.
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 *   Game Development: irrlicht, Cinder, Processing, cocos2d-x.
 
