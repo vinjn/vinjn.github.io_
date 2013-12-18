@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 个人工作中必备的免费软件_2013版
+title: 提升工作效率的必备软件_2013版
 ---
 
 {{ page.title }}
