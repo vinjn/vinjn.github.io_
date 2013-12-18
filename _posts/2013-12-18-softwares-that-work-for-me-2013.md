@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 工作中的几款免费软件_2013版
+title: 个人工作中必备的免费软件_2013版
 ---
 
 {{ page.title }}
