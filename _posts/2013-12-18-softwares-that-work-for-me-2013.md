@@ -33,6 +33,7 @@ desktop programmer (C++ / Java / Scripts) on Windows
   * DebugView
   * Process Explorer
   * Process Monitor
+* Unlocker
 
 ## Programming ##
 * Visual Studio Express
