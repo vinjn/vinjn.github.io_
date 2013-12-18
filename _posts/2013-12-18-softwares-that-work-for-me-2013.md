@@ -36,9 +36,10 @@ desktop programmer (C++ / Java / Scripts) on Windows
 
 ## Programming ##
 * Visual Studio Express
-* WinDBG
 * Eclipse
+* WinDBG
 * Cygwin
+* TortoiseSVN / Perforce / TortoiseGit
 
 ## Network ##
 * Chrome
