@@ -19,6 +19,10 @@ Writing shared code for Windows Store and Win32 desktop apps.
 [data-driven-game-object-system](http://gamedevs.org/uploads/data-driven-game-object-system.pdf)  
 Scott Bilas 在 GDC 2002 上的讲演，讲述了 Gas Powered Games 在《地牢围攻》中使用组件对象系统（component based game object）的经验。这可能是历史上首次公开介绍组件对象系统。
 
+[Pitfalls_of_Object_Oriented_Programming_GCAP_09](http://research.scee.net/files/presentations/gcapaustralia09/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf)
+
+[SCEE-Publications](http://research.scee.net/presentations)
+
 --------------------
 ##脚本##
 
