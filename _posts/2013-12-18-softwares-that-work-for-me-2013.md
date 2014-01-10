@@ -15,7 +15,7 @@ desktop programmer (C++ / Java / Scripts) on Windows
   * All Autocomplete
   * BracketHighlighter
   * ConvertToUTF8
-  * OpenGL Shading Language (GLSL)
+  * Shader Syntax
   * Perforce
 * Notepad++
   * Explorer
