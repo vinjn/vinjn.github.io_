@@ -17,7 +17,7 @@ desktop programmer (C++ / Java / Scripts) on Windows
   * ConvertToUTF8
   * Shader Syntax
   * Perforce
-  * Cscope
+  * TortoiseSVN
 * Notepad++
   * Explorer
   * NppExec
