@@ -61,6 +61,7 @@ July 2012 - Present, Creative Coder, *Super Nature Design Shanghai*
 *   2012, BMW, LED mapping / Kinect / Cinder.
 *   2013, [Nike FLEX](http://www.supernaturedesign.com/work/flex), Shanghai, LED mapping / OpenCV / OpenGL.
 *   2013, G9 Restaurant, LED mapping / Kinect / OpenGL / Android.
+*   2014, Nike Free, LED mapping / Arduino / Processing.
   
 Open source projects, *github.com/vinjn*  
 
