@@ -13,6 +13,7 @@ desktop programmer (C++ / Java / Scripts) on Windows
 * Sublime Text 3
   * Package Control
   * All Autocomplete
+  * Jedi - Python Autocomplete
   * BracketHighlighter
   * ConvertToUTF8
   * Shader Syntax
