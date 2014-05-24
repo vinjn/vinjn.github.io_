@@ -14,10 +14,10 @@ desktop programmer (C++ / Java / Scripts) on Windows
   * Package Control
   * All Autocomplete
   * Jedi - Python Autocomplete
+  * Autocomplete Javascript with Method Signature
   * SyncedSidebar
   * SublimeLinter
   * SublimeLinter-annotations
-  * SublimeLinter-cpplint
   * GitGutter
   * BracketHighlighter
   * ConvertToUTF8
