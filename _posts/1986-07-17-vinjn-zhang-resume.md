@@ -21,7 +21,11 @@ title: Vinjn Zhang's Resume
 
 #Working Experience  
 
-Apr 2012 - Present, GPU Infrastructure Architect, *nVidia*  
+Aug 2014 - Present, Xbox ATG Engineer II, *Microsoft*
+
+*   Improving Xbox One titles developed in China
+
+Apr 2012 - Jul 2014, GPU Infrastructure Architect, *nVidia*  
 
 *   Maintaining Direct3D API tracing tools to post-process the traces, decrease the running time of traces and keep the GPU performances match.
 *   Refactoring an automatic work flow to cover Direct3D 9 / 10 / 11 APIs.
