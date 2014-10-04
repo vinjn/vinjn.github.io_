@@ -59,7 +59,7 @@ Jan 2011 - Present, Technical Director, *Shanghai CRE Imagination*
 *   Development of Vuforia/Metaio - based Augmented Reality application.
 *   Development of [interactive Wacom tablet application](http://www.cre-web.com/?p=563&lang=en), mixed with grabbing video streams from Nikon DSLR.
 
-July 2012 - Present, Creative Coder, *Super Nature Design Shanghai*  
+July 2011 - Present, Creative Coder, *Super Nature Design*  
 
 *   2011, [Nike FOS Faceoff](http://www.supernaturedesign.com/work/nikefosfaceoff), Arduino / Processing / OpenGL.
 *   2012, BMW, LED mapping / Kinect / Cinder.
