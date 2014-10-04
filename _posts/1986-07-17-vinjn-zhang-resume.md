@@ -12,7 +12,7 @@ title: Vinjn Zhang's Resume
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
 
 #Skills   
-*   C++, Java, Python.
+*   C++, C, Java, Python.
 *   Platforms: Windows, Linux, Android.
 *   Version Control: Perforce, SVN, Git.
 *   Computer Graphics: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES.
@@ -29,7 +29,7 @@ Apr 2012 - Jul 2014, GPU Infrastructure Architect, *nVidia*
 
 *   Maintaining Direct3D API tracing tools to post-process the traces, decrease the running time of traces and keep the GPU performances match.
 *   Refactoring an automatic work flow to cover Direct3D 9 / 10 / 11 APIs.
-*   Maintaining OpenGL / OpenGL ES API tracing tools, including trace capture library, trace-to-cpp converter and trace replayer, covers Windows, Linux and Tegra Android.
+*   Maintaining OpenGL / OpenGL ES API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Tegra Android.
 *   [Making use of various tools](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-07-07-graphics-debugging-tools-overview.md) (PIX/GPA/Nsight/apitrace/glintercept) to debug and analyze the applications.
 
 Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment Ltd*  
