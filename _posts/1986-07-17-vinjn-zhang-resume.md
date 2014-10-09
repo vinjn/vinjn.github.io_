@@ -21,7 +21,7 @@ title: Vinjn Zhang's Resume
 
 #Working Experience  
 
-Aug 2014 - Present, Xbox ATG Engineer II, *Microsoft*
+Aug 2014 - Present, Xbox Advanced Technology Gropu (ATG) Engineer II, *Microsoft*
 
 *   Improving Xbox One titles developed in China
 
