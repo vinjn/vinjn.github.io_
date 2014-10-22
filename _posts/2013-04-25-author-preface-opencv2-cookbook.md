@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我 和OpenCV 的故事，兼译者序
+title: 我和 OpenCV 的故事，兼译者序
 ---
 
 {{ page.title }}
