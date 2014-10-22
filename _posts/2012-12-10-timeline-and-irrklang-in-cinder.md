@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在Cinder中使用timeline实现复杂的声音播放逻辑
+title: 在 Cinder 中使用 timeline 实现复杂的声音播放逻辑
 ---
 
 {{ page.title }}
