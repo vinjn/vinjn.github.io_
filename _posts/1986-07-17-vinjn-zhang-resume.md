@@ -14,10 +14,9 @@ title: Vinjn Zhang's Resume
 #Skills   
 *   C++, C, Java, Python.
 *   Platforms: Windows, Linux, Android.
-*   Version Control: Perforce, SVN, Git.
 *   Computer Graphics: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES.
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
-*   Game Development: irrlicht, Cinder, Processing, cocos2d-x.
+*   Game Development: irrlicht, Cinder, Unity, Processing, cocos2d-x.
 
 #Working Experience  
 
