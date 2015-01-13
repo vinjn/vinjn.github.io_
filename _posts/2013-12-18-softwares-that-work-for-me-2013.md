@@ -13,9 +13,13 @@ desktop programmer (C++ / Java / Scripts) on Windows
 * Sublime Text 3
   * Package Control
   * All Autocomplete
+  * Highlight Build Errors
+  * Pretty Json
+  * Sidebar Enhancement
+  * Markdown Editing
   * Jedi - Python Autocomplete
   * Autocomplete Javascript with Method Signature
-  * SyncedSidebar
+  * SublimeAStlyeFormatter
   * SublimeLinter
   * SublimeLinter-annotations
   * GitGutter
