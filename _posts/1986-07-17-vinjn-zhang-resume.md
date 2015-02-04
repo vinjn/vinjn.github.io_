@@ -71,7 +71,7 @@ July 2011 - Present, Creative Coder, *Super Nature Design*
 *   2013, [G9 Restaurant](http://arrestedmotion.com/2014/08/insa-for-g9-restaurant-shanghai/), LED mapping / Kinect / OpenGL / Android.
 *   2014, Nike Free, LED mapping / Arduino / Processing.
 *   2014, Vans, Realtime GLSL Chroma Key / Processing.
-*   2014, The North Face, Data visualization and natural user interface via Kinect / Processing. 
+*   2014, [The North Face](http://v.youku.com/v_show/id_XODA3OTM3ODg4.html), Data visualization and natural user interface via Kinect / Processing. 
   
 Open source projects, *github.com/vinjn*  
 
