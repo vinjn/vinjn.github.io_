@@ -24,7 +24,7 @@ Jan 2014 - Present, GPU Infrastructure Architect, *nVidia*
 
 *   Maintaining OpenGL / OpenGL ES API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
 
-Aug 2014 - Jan 2014, Xbox Advanced Technology Gropu (ATG) Engineer II, *Microsoft*
+Aug 2014 - Jan 2015, Xbox Advanced Technology Gropu (ATG) Engineer II, *Microsoft*
 
 *   Improving Xbox One titles developed in China
 *   Reducing titles' CPU and GPU overhead
