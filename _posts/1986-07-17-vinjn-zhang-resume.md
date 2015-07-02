@@ -20,7 +20,7 @@ title: Vinjn Zhang's Resume
 
 #Working Experience  
 
-Jan 2014 - Present, GPU Infrastructure Architect, *nVidia*
+Jan 2015 - Present, GPU Infrastructure Architect, *nVidia*
 
 *   Maintaining OpenGL / OpenGL ES API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
 
