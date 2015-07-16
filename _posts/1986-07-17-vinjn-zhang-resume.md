@@ -66,7 +66,7 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 2011 - 2014, Creative Coder, *Super Nature Design*  
 
 *   2011, [Nike FOS Faceoff](http://www.supernaturedesign.com/work/nikefosfaceoff), Arduino / Processing / OpenGL.
-*   2012, BMW,L ED mapping / Kinect / Cinder.
+*   2012, BMW Munich HQ, LED mapping / Kinect / Cinder.
 *   2013, [Nike FLEX](http://www.supernaturedesign.com/work/flex), Shanghai, LED mapping / OpenCV / OpenGL.
 *   2013, [G9 Restaurant](http://arrestedmotion.com/2014/08/insa-for-g9-restaurant-shanghai/), LED mapping / Kinect / OpenGL / Android.
 *   2014, Nike Free, LED mapping / Arduino / Processing.
