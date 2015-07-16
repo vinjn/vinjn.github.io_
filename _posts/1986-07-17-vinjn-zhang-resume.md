@@ -55,7 +55,7 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 
 #Projects   
 
-Jan 2011 - Present, Technical Director, *Shanghai CRE Imagination*  
+2011 - Present, Technical Director, *Shanghai CRE Imagination*  
 
 *   Leading R&D team to develop versatile applications. 
 *   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-device streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
@@ -63,7 +63,7 @@ Jan 2011 - Present, Technical Director, *Shanghai CRE Imagination*
 *   Development of Vuforia/Metaio - based Augmented Reality application.
 *   Development of [interactive Wacom tablet application](http://www.cre-web.com/?p=563&lang=en), mixed with grabbing video streams from Nikon DSLR.
 
-July 2011 - Present, Creative Coder, *Super Nature Design*  
+2011 - 2014, Creative Coder, *Super Nature Design*  
 
 *   2011, [Nike FOS Faceoff](http://www.supernaturedesign.com/work/nikefosfaceoff), Arduino / Processing / OpenGL.
 *   2012, BMW,L ED mapping / Kinect / Cinder.
@@ -72,7 +72,8 @@ July 2011 - Present, Creative Coder, *Super Nature Design*
 *   2014, Nike Free, LED mapping / Arduino / Processing.
 *   2014, Vans, Realtime GLSL Chroma Key / Processing.
 *   2014, [The North Face](http://v.youku.com/v_show/id_XODA3OTM3ODg4.html), Data visualization and natural user interface via Kinect / Processing. 
-  
+*   2014, [Nike Sneaker Boots](http://www.supernaturedesign.com/work/nikesneakerboots), Processing / LED mapping.
+
 Open source projects, *github.com/vinjn*  
 
 *   [island](https://github.com/vinjn/island), a light-weight and low-level creative coding framework in C.
