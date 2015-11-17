@@ -22,7 +22,8 @@ title: Vinjn Zhang's Resume
 
 Jan 2015 - Present, GPU Infrastructure Architect, *nVidia*
 
-*   Maintaining OpenGL / OpenGL ES API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
+*   Developing Vulkan API tracing tools, including trace capturer and trace replayer.
+*   Developing OpenGL API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
 
 Aug 2014 - Jan 2015, Xbox Advanced Technology Gropu (ATG) Engineer II, *Microsoft*
 
