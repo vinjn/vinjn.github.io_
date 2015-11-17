@@ -4,9 +4,8 @@ title: Vinjn Zhang's Resume
 ---
 #Basic Information  
 *   Jing Zhang / 张静
-*   (+86) 137-6451-5898 
 *   vinjn.z@gmail.com
-*   [blog](http://vinjn.github.io/) / [portfolio](http://vinjn.github.io/portfolio/)
+*   [blog](http://zhuanlan.zhihu.com/hacker-and-painter/) / [portfolio 2011-2013](http://vinjn.github.io/portfolio/)
 
 #Educational Background
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
