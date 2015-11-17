@@ -69,10 +69,7 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 *   2012, BMW Munich HQ, LED mapping / Kinect / Cinder.
 *   2013, [Nike FLEX](http://www.supernaturedesign.com/work/flex), Shanghai, LED mapping / OpenCV / OpenGL.
 *   2013, [G9 Restaurant](http://arrestedmotion.com/2014/08/insa-for-g9-restaurant-shanghai/), LED mapping / Kinect / OpenGL / Android.
-*   2014, Nike Free, LED mapping / Arduino / Processing.
-*   2014, Vans, Realtime GLSL Chroma Key / Processing.
 *   2014, [The North Face](http://v.youku.com/v_show/id_XODA3OTM3ODg4.html), Data visualization and natural user interface via Kinect / Processing. 
-*   2014, [Nike Sneaker Boots](http://www.supernaturedesign.com/work/nikesneakerboots), Processing / LED mapping.
 
 Open source projects, *github.com/vinjn*  
 
