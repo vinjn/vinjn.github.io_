@@ -24,7 +24,7 @@ Jan 2015 - Present, GPU Infrastructure Architect, *nVidia*
 *   Developing Vulkan API tracing tools, including trace capturer and trace replayer.
 *   Developing OpenGL API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
 
-Aug 2014 - Jan 2015, Xbox Advanced Technology Gropu (ATG) Engineer II, *Microsoft*
+Aug 2014 - Jan 2015, Xbox Advanced Technology Group (ATG) Engineer II, *Microsoft*
 
 *   Improving Xbox One titles developed in China
 *   Reducing titles' CPU and GPU overhead
@@ -49,7 +49,7 @@ Mar 2011 - Jul 2011, Game Engine Programmer, *Ubisoft Shanghai*
 
 May 2010 - Feb 2011, Junior Programmer, *2K Games China*  
 
-*   Localization of an Mafia II on Xbox 360, responsible for UI layout adjustment and game logic debugging.
+*   Localization of Mafia II on Xbox 360, responsible for UI layout adjustment and game logic debugging.
 *   Setup and maintenance of daily build system for multiple projects.
 *   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.   
 
