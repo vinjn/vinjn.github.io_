@@ -19,7 +19,7 @@ title: Vinjn Zhang's Resume
 
 #Working Experience  
 
-Jan 2015 - Present, GPU Infrastructure Architect, *nVidia*
+Jan 2015 - Present, Senior GPU Infrastructure Architect, *nVidia*
 
 *   Developing Vulkan API tracing tools, including trace capturer and trace replayer.
 *   Developing OpenGL API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
