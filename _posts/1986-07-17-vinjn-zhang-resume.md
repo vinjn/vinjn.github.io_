@@ -21,6 +21,7 @@ title: Vinjn Zhang's Resume
 
 Jan 2015 - Present, Senior GPU Infrastructure Architect, *nVidia*
 
+*   Lead the team of four engineers across China and India.
 *   Developing Vulkan API tracing tools, including trace capturer and trace replayer.
 *   Developing OpenGL API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
 
