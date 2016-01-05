@@ -11,9 +11,9 @@ title: Vinjn Zhang's Resume
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
 
 #Skills   
-*   C++, C, Java, Python.
+*   C++ / C > Java > Python / Javascript.
 *   Platforms: Windows, Linux, Android.
-*   Computer Graphics: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES.
+*   GPU Programming: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES, CUDA.
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 *   Game Development: irrlicht, Cinder, Unity, Processing, cocos2d-x.
 
@@ -53,6 +53,10 @@ May 2010 - Feb 2011, Junior Programmer, *2K Games China*
 *   Localization of Mafia II on Xbox 360, responsible for UI layout adjustment and game logic debugging.
 *   Setup and maintenance of daily build system for multiple projects.
 *   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.   
+
+Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
+
+*   Maintenance of transformer substations.
 
 #Projects   
 
