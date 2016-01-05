@@ -45,8 +45,8 @@ Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment
 
 Mar 2011 - Jul 2011, Game Engine Programmer, *Ubisoft Shanghai*  
 
-*   Working on NCIS video game (WII / PS3 / Xbox360 / PC), responsible for localization system, a unified save/load mechanism on all platforms and game editor improvement.
-*   TRC/TCR/LotCheck implementation to pass Microsoft/Sony/Nintendo's verifications.
+*   Working on NCIS video game (WII / PS3 / Xbox 360 / PC), responsible for localization system, a unified save/load mechanism on all platforms and game editor improvement.
+*   TRC / TCR / LotCheck implementation to pass Microsoft / Sony / Nintendo's verifications.
 
 May 2010 - Feb 2011, Junior Programmer, *2K Games China*  
 
@@ -65,7 +65,7 @@ Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
 *   Leading R&D team to develop versatile applications. 
 *   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-device streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
 *   Multi-touch softwares compatible with industrial laser scanner and Microsoft Kinect.
-*   Development of Vuforia/Metaio - based Augmented Reality application.
+*   Development of Vuforia / Metaio - based Augmented Reality application.
 *   Development of [interactive Wacom tablet application](http://www.cre-web.com/?p=563&lang=en), mixed with grabbing video streams from Nikon DSLR.
 
 2011 - 2014, Creative Coder, *Super Nature Design*  
@@ -76,7 +76,7 @@ Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
 *   2013, [G9 Restaurant](http://arrestedmotion.com/2014/08/insa-for-g9-restaurant-shanghai/), LED mapping / Kinect / OpenGL / Android.
 *   2014, [The North Face](http://v.youku.com/v_show/id_XODA3OTM3ODg4.html), Data visualization and natural user interface via Kinect / Processing. 
 
-Open source projects, *github.com/vinjn*  
+Open source projects, *https://github.com/vinjn*  
 
 *   [island](https://github.com/vinjn/island), a light-weight and low-level creative coding framework in C.
 *   [KinServer](https://github.com/vinjn/KinServer), a multi-purpose server for Microsoft Kinect.
