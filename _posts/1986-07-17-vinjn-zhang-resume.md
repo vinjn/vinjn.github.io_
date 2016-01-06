@@ -46,7 +46,7 @@ Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment
 
 Mar 2011 - Jul 2011, Game Engine Programmer, *Ubisoft Shanghai*  
 
-*   Working on NCIS video game (WII / PS3 / Xbox 360 / PC), responsible for localization system, a unified save/load mechanism on all platforms and game editor improvement.
+*   Working on [NCIS video game](http://www.mobygames.com/developer/sheet/view/by_genre/developerId,532850/) (WII / PS3 / Xbox 360 / PC), responsible for localization system, a unified save/load mechanism on all platforms and game editor improvement.
 *   TRC / TCR / LotCheck implementation to pass Microsoft / Sony / Nintendo's verifications.
 
 May 2010 - Feb 2011, Junior Programmer, *2K Games China*  
