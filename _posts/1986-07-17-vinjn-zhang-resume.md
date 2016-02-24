@@ -81,7 +81,7 @@ Open source projects, *https://github.com/vinjn*
 
 *   [island](https://github.com/vinjn/island), a light-weight and low-level creative coding framework in C.
 *   [uEngine](https://github.com/u-engine/uEngine), 3d graphics engine based on irrlicht, bgfx, assimp etc.
-*   [KinServer](https://github.com/vinjn/KinServer), a multi-purpose server for Microsoft Kinect.
+*   [KinServer](https://github.com/vnm-interactive/KinServer), a multi-purpose server for Microsoft Kinect.
 *   [CamServer](http://github.com/vinjn/CamServer/), a light-weight camera based interactive system, OpenCV / OpenGL.
 *   [shadertoy-dx11](http://github.com/vinjn/shadertoy-dx11/), a DirectX 11 clone of [shadertoy.com](https://www.shadertoy.com/).
 
