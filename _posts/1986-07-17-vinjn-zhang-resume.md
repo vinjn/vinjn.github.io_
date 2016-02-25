@@ -14,7 +14,7 @@ title: Vinjn Zhang's Resume
 #Skills   
 *   C++ / C > Java > Python / Javascript.
 *   Platforms: Windows, Linux, Android.
-*   GPU Programming: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES, CUDA.
+*   GPU Programming: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES, Vulkan, CUDA.
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 *   Game Development: irrlicht, Cinder, Unity, Processing, cocos2d-x.
 
