@@ -3,15 +3,18 @@ layout: post
 title: Vinjn Zhang's Resume
 ---
 #Basic Information  
+
 *   Jing Zhang / 张静
 *   vinjn.z@gmail.com
 *   [zhuanlan@zhihu](http://zhuanlan.zhihu.com/hacker-and-painter/)
 *   [portfolio 2011-2013](http://vinjn.github.io/portfolio/)
 
 #Educational Background
+
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
 
 #Skills   
+
 *   C++ / C > Java > Python / Javascript.
 *   Platforms: Windows, Linux, Android.
 *   GPU Programming: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES, Vulkan, CUDA.
