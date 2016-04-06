@@ -7,7 +7,7 @@ title: 提升工作效率的必备软件 2013 版
 ================
 
 ## Target Audience ##
-desktop programmer (C++ / Java / Scripts) on Windows
+Desktop programmer (C++ / Java / Scripts) on Windows
 
 ## Editor ##
 * Sublime Text 3
