@@ -2,18 +2,17 @@
 layout: post
 title: Vinjn Zhang's Resume
 ---
-#Basic Information  
+
+## Basic Information ##
 
 *   Jing Zhang / 张静
 *   vinjn.z@gmail.com
-*   [zhuanlan@zhihu](http://zhuanlan.zhihu.com/hacker-and-painter/)
-*   [portfolio 2011-2013](http://vinjn.github.io/portfolio/)
 
-#Educational Background
+## Educational Background ##
 
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
 
-#Skills   
+## Skills ##
 
 *   C++ / C > Java > Python / Javascript.
 *   Platforms: Windows, Linux, Android.
@@ -21,7 +20,7 @@ title: Vinjn Zhang's Resume
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 *   Game Development: irrlicht, Cinder, Unity, Processing, cocos2d-x.
 
-#Working Experience  
+## Working Experience ##
 
 Jan 2015 - Present, Senior GPU Infrastructure Architect / Team Leader, *nVidia*
 
@@ -62,7 +61,7 @@ Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
 
 *   Maintenance of transformer substations.
 
-#Projects   
+## Projects ##
 
 2011 - Present, Technical Director, *Shanghai CRE Imagination*  
 
@@ -80,15 +79,18 @@ Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
 *   2013, [G9 Restaurant](http://arrestedmotion.com/2014/08/insa-for-g9-restaurant-shanghai/), LED mapping / Kinect / OpenGL / Android.
 *   2014, [The North Face](http://v.youku.com/v_show/id_XODA3OTM3ODg4.html), Data visualization and natural user interface via Kinect / Processing. 
 
-Open source projects, *https://github.com/vinjn*  
+Open source projects, *https://github.com/vinjn*
 
+*   [portfolio 2011-2013](http://vinjn.github.io/portfolio/)
 *   [island](https://github.com/vinjn/island), a light-weight and low-level creative coding framework in C.
 *   [uEngine](https://github.com/u-engine/uEngine), 3d graphics engine based on irrlicht, bgfx, assimp etc.
 *   [KinServer](https://github.com/vnm-interactive/KinServer), a multi-purpose server for Microsoft Kinect.
 *   [CamServer](http://github.com/vinjn/CamServer/), a light-weight camera based interactive system, OpenCV / OpenGL.
 *   [shadertoy-dx11](http://github.com/vinjn/shadertoy-dx11/), a DirectX 11 clone of [shadertoy.com](https://www.shadertoy.com/).
 
-Publications
+### Publications ###
 
 *   [OpenCV 2 计算机视觉编程手册](http://www.amazon.cn/OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C-Robert-Laganiere%E8%91%97-%E5%BC%A0%E9%9D%99/dp/B00DO9TC6C/)
 *   [Processing 语言权威指南](http://www.amazon.cn/Processing%E8%AF%AD%E8%A8%80%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%91%9E%E6%96%AF/dp/B00FEMKN7Y/)
+*   [知乎专栏 - 黑客与画家](http://zhuanlan.zhihu.com/hacker-and-painter/)
+
