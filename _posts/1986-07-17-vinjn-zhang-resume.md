@@ -16,7 +16,7 @@ title: Vinjn Zhang's Resume
 
 *   C++ / C > Java > Python / Javascript.
 *   Platforms: Windows, Linux, Android.
-*   GPU Programming: Direct3D 9 / 10 / 11, OpenGL / OpenGL ES, Vulkan, CUDA.
+*   GPU Programming: DirectX 9 - 12, OpenGL / ES, Vulkan, CUDA.
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 *   Game Development: irrlicht, Cinder, Unity, Processing, cocos2d-x.
 
@@ -30,8 +30,8 @@ Jan 2015 - Present, Senior GPU Infrastructure Architect / Team Leader, *nVidia*
 
 Aug 2014 - Jan 2015, Xbox Advanced Technology Group (ATG) Engineer II, *Microsoft*
 
-*   Improving Xbox One titles developed in China
-*   Reducing titles' CPU and GPU overhead
+*   Improving Xbox One titles developed in China.
+*   Reducing titles' CPU and GPU overhead.
 
 Apr 2012 - Jul 2014, GPU Infrastructure Architect, *nVidia*  
 
@@ -63,7 +63,7 @@ Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
 
 ## Projects ##
 
-2011 - Present, Technical Director, *Shanghai CRE Imagination*  
+2011 - 2016, Technical Consultant, *Shanghai CRE Imagination*  
 
 *   Leading R&D team to develop versatile applications. 
 *   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-device streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
