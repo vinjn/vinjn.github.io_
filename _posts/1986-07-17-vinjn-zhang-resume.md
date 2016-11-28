@@ -61,25 +61,7 @@ Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
 
 *   Maintenance of transformer substations.
 
-## Projects ##
-
-2011 - 2016, Technical Consultant, *Shanghai CRE Imagination*  
-
-*   Leading R&D team to develop versatile applications. 
-*   Vision-based multi-touch solution [CRE-TOUCH](http://www.cre-web.com/?p=302&lang=en), supports multi-device streaming and [industry cameras](http://www.cre-web.com/?p=583&lang=en). Leveraging multi-threading for smooth frames rate.
-*   Multi-touch softwares compatible with industrial laser scanner and Microsoft Kinect.
-*   Development of Vuforia / Metaio - based Augmented Reality application.
-*   Development of [interactive Wacom tablet application](http://www.cre-web.com/?p=563&lang=en), mixed with grabbing video streams from Nikon DSLR.
-
-2011 - 2014, Creative Coder, *Super Nature Design*  
-
-*   2011, [Nike FOS Faceoff](http://www.supernaturedesign.com/work/nikefosfaceoff), Arduino / Processing / OpenGL.
-*   2012, BMW Munich HQ, LED mapping / Kinect / Cinder.
-*   2013, [Nike FLEX](http://www.supernaturedesign.com/work/flex), Shanghai, LED mapping / OpenCV / OpenGL.
-*   2013, [G9 Restaurant](http://arrestedmotion.com/2014/08/insa-for-g9-restaurant-shanghai/), LED mapping / Kinect / OpenGL / Android.
-*   2014, [The North Face](http://v.youku.com/v_show/id_XODA3OTM3ODg4.html), Data visualization and natural user interface via Kinect / Processing. 
-
-Open source projects, *https://github.com/vinjn*
+## Projects *https://github.com/vinjn* ##
 
 *   [portfolio 2011-2013](http://vinjn.github.io/portfolio/)
 *   [island](https://github.com/vinjn/island), a light-weight and low-level creative coding framework in C.
@@ -88,7 +70,7 @@ Open source projects, *https://github.com/vinjn*
 *   [CamServer](http://github.com/vinjn/CamServer/), a light-weight camera based interactive system, OpenCV / OpenGL.
 *   [shadertoy-dx11](http://github.com/vinjn/shadertoy-dx11/), a DirectX 11 clone of [shadertoy.com](https://www.shadertoy.com/).
 
-### Publications ###
+## Publications ##
 
 *   [OpenCV 2 计算机视觉编程手册](http://www.amazon.cn/OpenCV2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C-Robert-Laganiere%E8%91%97-%E5%BC%A0%E9%9D%99/dp/B00DO9TC6C/)
 *   [Processing 语言权威指南](http://www.amazon.cn/Processing%E8%AF%AD%E8%A8%80%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%91%9E%E6%96%AF/dp/B00FEMKN7Y/)
