@@ -3,30 +3,28 @@ layout: post
 title: Vinjn Zhang's Resume
 ---
 
-## Basic Information ##
+## Basic ##
 
 *   Jing Zhang / 张静
 *   vinjn.z@gmail.com
-
-## Educational Background ##
-
 *   Sep 2004 - Jun 2008, Bachelor, Computer Science, Shanghai Jiao Tong University.   
 
 ## Skills ##
 
 *   C++ / C > Java > Python / Javascript.
-*   Platforms: Windows, Linux, Android.
+*   Platforms: Windows, Linux, Android, macOS.
 *   GPU Programming: DirectX 9 - 12, OpenGL / ES, Vulkan, CUDA.
 *   Computer Vision: OpenCV, Augumented Reality SDKs, Kinect.
 *   Game Development: irrlicht, Cinder, Unity, Processing, cocos2d-x.
 
-## Working Experience ##
+## Professional ##
 
 Jan 2015 - Present, Senior GPU Infrastructure Architect / Team Leader, *nVidia*
 
 *   Leading the team across China and India to serve global customers.
 *   Developing Vulkan API tracing tools, including trace capturer and trace replayer.
 *   Developing OpenGL API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
+*   Developing next-gen GPU performance analysis tool.
 
 Aug 2014 - Jan 2015, Xbox Advanced Technology Group (ATG) Engineer II, *Microsoft*
 
@@ -63,11 +61,9 @@ Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
 
 ## Projects *https://github.com/vinjn* ##
 
-*   [portfolio 2011-2013](http://vinjn.github.io/portfolio/)
 *   [island](https://github.com/vinjn/island), a light-weight and low-level creative coding framework in C.
-*   [uEngine](https://github.com/u-engine/uEngine), 3d graphics engine based on irrlicht, bgfx, assimp etc.
-*   [KinServer](https://github.com/vnm-interactive/KinServer), a multi-purpose server for Microsoft Kinect.
-*   [CamServer](http://github.com/vinjn/CamServer/), a light-weight camera based interactive system, OpenCV / OpenGL.
+*   [chihuahua](https://github.com/jing-engine/chihuahua), 3d graphics engine based on irrlicht, bgfx, assimp etc.
+*   [AirTouch](https://github.com/jing-interactive/AirTouch), a multi-purpose server for Microsoft Kinect.
 *   [shadertoy-dx11](http://github.com/vinjn/shadertoy-dx11/), a DirectX 11 clone of [shadertoy.com](https://www.shadertoy.com/).
 
 ## Publications ##
