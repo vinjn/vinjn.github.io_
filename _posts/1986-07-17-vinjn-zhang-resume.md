@@ -61,10 +61,10 @@ Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
 
 ## Projects *https://github.com/vinjn* ##
 
-*   [island](https://github.com/vinjn/island), a light-weight and low-level creative coding framework in C.
+*   [island](https://github.com/island-org/island), a light-weight and low-level creative coding framework in C.
 *   [chihuahua](https://github.com/jing-engine/chihuahua), 3d graphics engine based on irrlicht, bgfx, assimp etc.
-*   [AirTouch](https://github.com/jing-interactive/AirTouch), a multi-purpose server for Microsoft Kinect.
-*   [shadertoy-dx11](http://github.com/vinjn/shadertoy-dx11/), a DirectX 11 clone of [shadertoy.com](https://www.shadertoy.com/).
+*   [AirTouch](https://github.com/jing-interactive/AirTouch), depth-sensor based human action detector.
+*   [RenderDog](https://github.com/jing-interactive/RenderDog), cross-platform realtime rendering sandbox.
 *   [awesome-vulkan](https://github.com/vinjn/awesome-vulkan), A curated list of awesome Vulkan libraries, debuggers and resources.
 
 ## Publications ##
