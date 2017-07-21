@@ -28,8 +28,8 @@ Jan 2015 - Present, Senior GPU Infrastructure Architect / Team Leader, *nVidia*
 
 Aug 2014 - Jan 2015, Xbox Advanced Technology Group (ATG) Engineer II, *Microsoft*
 
-*   Improving Xbox One titles developed in China.
-*   Reducing titles' CPU and GPU overhead.
+*   Improving Xbox One games developed in China.
+*   Reducing CPU and GPU overhead of 3rd party games.
 
 Apr 2012 - Jul 2014, GPU Infrastructure Architect, *nVidia*  
 
