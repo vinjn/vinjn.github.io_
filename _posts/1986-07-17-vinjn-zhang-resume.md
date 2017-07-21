@@ -19,43 +19,43 @@ title: Vinjn Zhang's Resume
 
 ## Professional ##
 
-Jan 2015 - Present, Senior GPU Infrastructure Architect / Team Leader, *nVidia*
+### Jan 2015 - Present, Senior GPU Infrastructure Architect / Team Leader, *nVidia* ###
 
 *   Leading the team across China and India to serve global customers.
 *   Developing [Vulkan API tracing tools](https://github.com/LunarG/VulkanTools), including trace capturer and trace replayer.
 *   Developing OpenGL API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
 *   Developing next-gen GPU performance analysis tool.
 
-Aug 2014 - Jan 2015, Xbox Advanced Technology Group (ATG) Engineer II, *Microsoft*
+### Aug 2014 - Jan 2015, Xbox Advanced Technology Group (ATG) Engineer II, *Microsoft* ###
 
 *   Improving Xbox One games developed in China.
 *   Reducing CPU and GPU overhead of 3rd party games.
 
-Apr 2012 - Jul 2014, GPU Infrastructure Architect, *nVidia*  
+### Apr 2012 - Jul 2014, GPU Infrastructure Architect, *nVidia* ###
 
 *   Maintaining Direct3D API tracing tools to post-process the traces, decrease the running time of traces and keep the GPU performances match.
 *   Refactoring an automatic work flow to cover Direct3D 9 / 10 / 11 APIs.
 *   Maintaining OpenGL / OpenGL ES API tracing tools, including trace capturer, trace-to-cpp converter and trace replayer, covers Windows, Linux and Android.
 *   [Making use of various tools](https://github.com/vinjn/vinjn.github.io/blob/master/_posts/2013-07-07-graphics-debugging-tools-overview.md) (PIX / GPA / Nsight / apitrace / glintercept) to debug and analyze the applications.
 
-Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment Ltd*  
+### Jul 2011 - Mar 2012, Senior Software Engineer, *ShanDa Interactive Entertainment Ltd* ###
 
 *   Augmented Reality SDK development, responsible for XML-based 3D scene graph and animation system.
 *   Research on Image Retrieval, extending OpenCV with flann to support approximate kMeans clustering.
 *   iOS game development, responsible for rendering of collidable particle system (cocos2d-x / box2d) and state-machine based AI system.
 
-Mar 2011 - Jul 2011, Game Engine Programmer, *Ubisoft Shanghai*  
+### Mar 2011 - Jul 2011, Game Engine Programmer, *Ubisoft Shanghai* ###
 
 *   Working on [NCIS video game](http://www.mobygames.com/developer/sheet/view/by_genre/developerId,532850/) (WII / PS3 / Xbox 360 / PC), responsible for localization system, a unified save/load mechanism on all platforms and game editor improvement.
 *   TRC / TCR / LotCheck implementation to pass Microsoft / Sony / Nintendo's verifications.
 
-May 2010 - Feb 2011, Junior Programmer, *2K Games China*  
+### May 2010 - Feb 2011, Junior Programmer, *2K Games China* ###
 
 *   Localization of Mafia II on Xbox 360, responsible for UI layout adjustment and game logic debugging.
 *   Setup and maintenance of daily build system for multiple projects.
 *   Font information extraction tool, using OpenCV to recognize the regions of font pixels in a font image and extract the bounding boxes, turns a plain image to a usable font texture.   
 
-Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai*
+### Jul 2008 - Apr 2010, Electrical Engineer, *State Grid Corporation of Shanghai* ###
 
 *   Maintenance of transformer substations.
 
